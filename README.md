@@ -1,51 +1,71 @@
 <h1 align="center">Hey there 👋 I'm Nitanshu Tak</h1>
 <p align="center">
-  <em>BTech CSE (Cloud Computing) @ UPES | Code, Cloud & Real-world Projects</em>
+  <em>BTech CSE (Cloud Computing) @ UPES | Code, Cloud & Real-world Projects</em><br>
+  <strong>📍 Dehradun, India</strong> &nbsp; | &nbsp; <strong>🌐 AWS • Java • Python • Dev Tools</strong>
 </p>
 
 ---
 
-Hi! I'm Nitanshu — a third-year computer science student who loves building things that actually work.
-
-Right now, I'm focused on exploring **Java**, **Python**, and **AWS** by creating real-world apps, whether it's a GUI-based expense tracker or terminal tools to automate cloud stuff.
-
-I believe in learning by doing, even if it’s messy at first. If I can turn an idea into a working project, that’s a win.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+Dev+Enthusiast;AWS+is+my+playground;I+build+real-world+tools;Always+learning+new+tech!&font=Fira%20Code&center=true&width=450&height=45&color=00C9A7&vCenter=true&pause=1000" />
+</p>
 
 ---
 
-### 🧰 What I Work With
-- **Languages**: C, C++, Java, Python, HTML, CSS
-- **Cloud Tools**: AWS (EC2, IAM, Lambda, S3, SNS), AWS CLI
-- **Core Concepts**: OOP, Multithreading, File I/O, Collections
-- **Tools**: Git & GitHub, VS Code, Google Colab, Packet Tracer
+### 🧑‍💻 About Me
+
+Hi! I'm Nitanshu — a 3rd-year Computer Science student who believes in **learning by building**. I specialize in combining **cloud automation**, **Python scripts**, and **Java GUIs** to solve real problems. From serverless monitoring to desktop budgeting apps — I’ve done a bit of both worlds.
 
 ---
 
-### 🚀 Some Cool Projects
+### 🧰 Tech Toolkit
+
+- 💻 Languages: **Java**, **Python**, C, C++, HTML/CSS
+- ☁️ Cloud Stack: **AWS EC2**, Lambda, SNS, S3, IAM, EventBridge, AWS CLI
+- 🛠 Tools: Git & GitHub, VS Code, Google Colab, Postman, Packet Tracer
+- 🔧 Concepts: OOP, File I/O, Multithreading, API calls
+
+---
+
+### 🚀 Featured Projects
 
 - 🔹 [ExpenseFlow - Java Budget App](https://github.com/Nitanshu715/ExpenseFlow-A-GUI-Based-Budget-Tracker)  
-  A GUI desktop app that helps manage your expenses. Built with Swing, OOP, multithreading, and file storage.
+  ➤ A Java Swing GUI that helps track your expenses — with categories, threads, and persistent storage.
 
 - 🔹 [FlightOps Portal](https://github.com/Nitanshu715/FlightOps-Portal)  
-  Python-based role-specific flight data tracker — Admins manage flights, users explore them on a map.
+  ➤ Role-based airline data tracker — Admins manage flights, Users view live details. Python + CLI + file DB.
 
 - 🔹 [AWS InfraControl CLI Tool](https://github.com/Nitanshu715/-AWS-InfraControl-CLI-Tool)  
-  Command-line tool to monitor and control EC2 instances using EventBridge, Lambda, SNS, S3, and Python.
+  ➤ Real-time EC2 monitoring with auto-logging & SNS alerts — powered by EventBridge, Lambda, and S3.
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitanshu715&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitanshu715&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitanshu715&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitanshu715&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
 
 ---
 
+### 🧠 Currently Learning
+
+- Building backend with Node.js + Express
+- Hosting projects on EC2 and GitHub Pages
+- Improving JavaScript skills
+
+---
+
 ### 📬 Let's Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nitanshu-tak-89a1ba289/)
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nitanshu-tak-89a1ba289/)
 - 📧 [Email me](mailto:nitanshutak070105@gmail.com)
 
 ---
 
-*Always learning. Always experimenting. Always building.*
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitanshu715&theme=github_dark" />
+</p>
+
+<p align="center"><em>“Consistency beats talent when talent doesn’t show up.”</em></p>
