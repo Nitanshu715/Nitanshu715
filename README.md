@@ -22,14 +22,15 @@ I believe in learning by doing, even if it’s messy at first. If I can turn an 
 ---
 
 ### 🚀 Some Cool Projects
+
 - 🔹 [ExpenseFlow - Java Budget App](https://github.com/Nitanshu715/ExpenseFlow-A-GUI-Based-Budget-Tracker)  
   A GUI desktop app that helps manage your expenses. Built with Swing, OOP, multithreading, and file storage.
 
-- 🔹 [FlightOps Portal](#) *(coming soon)*  
+- 🔹 [FlightOps Portal](https://github.com/Nitanshu715/FlightOps-Portal)  
   Python-based role-specific flight data tracker — Admins manage flights, users explore them on a map.
 
-- 🔹 [AWS InfraControl CLI Tool](#) *(coming soon)*  
-  Command-line tool to start, stop, and terminate EC2 instances using Boto3 and IAM permissions.
+- 🔹 [AWS InfraControl CLI Tool](https://github.com/Nitanshu715/-AWS-InfraControl-CLI-Tool)  
+  Command-line tool to monitor and control EC2 instances using EventBridge, Lambda, SNS, S3, and Python.
 
 ---
 
