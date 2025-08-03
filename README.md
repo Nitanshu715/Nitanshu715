@@ -18,12 +18,37 @@ Hi! I'm Nitanshu — a 3rd-year Computer Science student who believes in **learn
 
 ---
 
-### 🧰 Tech Toolkit
+### 🛠️ Tech Toolkit
 
-- 💻 Languages: **Java**, **Python**, C, C++, HTML/CSS
-- ☁️ Cloud Stack: **AWS EC2**, Lambda, SNS, S3, IAM, EventBridge, AWS CLI
-- 🛠 Tools: Git & GitHub, VS Code, Google Colab, Postman, Packet Tracer
-- 🔧 Concepts: OOP, File I/O, Multithreading, API calls
+```yaml
+Languages:
+  - Java
+  - Python
+  - C, C++
+  - HTML/CSS
+
+Cloud Stack:
+  - AWS EC2
+  - Lambda
+  - S3
+  - IAM
+  - SNS
+  - EventBridge
+  - AWS CLI
+
+Tools:
+  - Git & GitHub
+  - VS Code
+  - Google Colab
+  - Postman
+  - Cisco Packet Tracer
+
+Core Concepts:
+  - OOP (Java, Python)
+  - File I/O
+  - Multithreading
+  - API Integration
+```
 
 ---
 
@@ -37,6 +62,12 @@ Hi! I'm Nitanshu — a 3rd-year Computer Science student who believes in **learn
 
 - 🔹 [AWS InfraControl CLI Tool](https://github.com/Nitanshu715/-AWS-InfraControl-CLI-Tool)  
   ➤ Real-time EC2 monitoring with auto-logging & SNS alerts — powered by EventBridge, Lambda, and S3.
+
+- 🔹 [MusicPlaylist](https://github.com/Nitanshu715/MusicPlaylist)  
+  ➤ Console app in C to manage, search, and add songs into a user playlist. Includes playlist naming, song search, and artist filter.
+
+- 🔹 [Portfolio Repository](https://github.com/Nitanshu715/Portfolio)  
+  ➤ A clean GitHub repo showcasing my resume, verified certifications, and all major project documentation.
 
 ---
 
@@ -57,7 +88,7 @@ Hi! I'm Nitanshu — a 3rd-year Computer Science student who believes in **learn
 
 ---
 
-### 📬 Let's Connect
+### 📢 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nitanshu-tak-89a1ba289/)
 - 📧 [Email me](mailto:nitanshutak070105@gmail.com)
