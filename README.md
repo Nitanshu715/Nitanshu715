@@ -11,6 +11,9 @@
 </p>
 
 ---
+[Portfolio Repository](https://github.com/Nitanshu715/Portfolio)  
+  => A clean GitHub repo showcasing my resume, verified certifications, and all major project documentation.
+---
 
 ### 🧑‍💻 About Me
 
@@ -40,7 +43,6 @@ Tools:
   - Git & GitHub
   - VS Code
   - Google Colab
-  - Postman
   - Cisco Packet Tracer
 
 Core Concepts:
@@ -66,8 +68,6 @@ Core Concepts:
 - 🔹 [MusicPlaylist](https://github.com/Nitanshu715/MusicPlaylist)  
   ➤ Console app in C to manage, search, and add songs into a user playlist. Includes playlist naming, song search, and artist filter.
 
-- 🔹 [Portfolio Repository](https://github.com/Nitanshu715/Portfolio)  
-  ➤ A clean GitHub repo showcasing my resume, verified certifications, and all major project documentation.
 
 ---
 
