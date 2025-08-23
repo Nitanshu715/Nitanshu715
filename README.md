@@ -66,9 +66,11 @@ Core Concepts:
   ➤ Real-time EC2 monitoring with auto-logging & SNS alerts — powered by EventBridge, Lambda, and S3.
 
 - 🔹 [MusicPlaylist](https://github.com/Nitanshu715/MusicPlaylist)  
-  ➤ Console app in C to manage, search, and add songs into a user playlist. Includes playlist naming, song search, and artist filter.
+  ➤ Console app in C to manage, search, and add songs to a user playlist. Includes playlist naming, song search, and artist filter.
 
-
+- 🔹 [TransparaScore](https://github.com/Nitanshu715/TransparaScore-My-Hackathon-Explainable-Credit-Intelligence-Platform)  
+  ➤ It is a Real-time based Stocks and Company information presentation website with the linked API from both Yahoo and Fred. It was a part of my hackathon project.
+  
 ---
 
 ### 📊 GitHub Stats
