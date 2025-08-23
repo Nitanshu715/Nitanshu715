@@ -69,7 +69,7 @@ Core Concepts:
   ➤ Console app in C to manage, search, and add songs to a user playlist. Includes playlist naming, song search, and artist filter.
 
 - 🔹 [TransparaScore](https://github.com/Nitanshu715/TransparaScore-My-Hackathon-Explainable-Credit-Intelligence-Platform)  
-  ➤ It is a Real-time based Stocks and Company information presentation website with the linked API from both Yahoo and Fred. It was a part of my hackathon project.
+  ➤ It is a Real-time explainable credit intelligence platform with the linked API from both Yahoo and Fred. It was a part of my CredTech hackathon project.
   
 ---
 
