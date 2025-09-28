@@ -56,25 +56,25 @@ Core Concepts:
 
 ### 🚀 Featured Projects
 
-- 🔹 [ExpenseFlow - Java Budget App](https://github.com/Nitanshu715/ExpenseFlow-A-GUI-Based-Budget-Tracker)  
+🔹 [ExpenseFlow - Java Budget App](https://github.com/Nitanshu715/ExpenseFlow-A-GUI-Based-Budget-Tracker)  
   ➤ A Java Swing GUI that helps track your expenses — with categories, threads, and persistent storage.
 
-- 🔹 [FlightOps Portal](https://github.com/Nitanshu715/FlightOps-Portal)  
+🔹 [FlightOps Portal](https://github.com/Nitanshu715/FlightOps-Portal)  
   ➤ Role-based airline data tracker — Admins manage flights, Users view live details. Python + CLI + file DB.
 
-- 🔹 [AWS InfraControl CLI Tool](https://github.com/Nitanshu715/-AWS-InfraControl-CLI-Tool)  
+🔹 [AWS InfraControl CLI Tool](https://github.com/Nitanshu715/-AWS-InfraControl-CLI-Tool)  
   ➤ Real-time EC2 monitoring with auto-logging & SNS alerts — powered by EventBridge, Lambda, and S3.
 
-- 🔹 [MusicPlaylist](https://github.com/Nitanshu715/MusicPlaylist)  
+🔹 [MusicPlaylist](https://github.com/Nitanshu715/MusicPlaylist)  
   ➤ Console app in C to manage, search, and add songs to a user playlist. Includes playlist naming, song search, and artist filter.
 
-- 🔹 [TransparaScore](https://github.com/Nitanshu715/TransparaScore-My-Hackathon-Explainable-Credit-Intelligence-Platform)  
+🔹 [TransparaScore](https://github.com/Nitanshu715/TransparaScore-My-Hackathon-Explainable-Credit-Intelligence-Platform)  
   ➤ It is a Real-time explainable credit intelligence platform with the linked API from both Yahoo and Fred. It was a part of my CredTech hackathon project.
 
-- 🔹 [Zyra - Personalized Carrer Growth Advisor](https://github.com/Nitanshu715/Zyra)  
+🔹 [Zyra - Personalized Carrer Growth Advisor](https://github.com/Nitanshu715/Zyra)  
   ➤ API integrated Personalized skill builder and study helper bot specializing in carrer support
 
-- 🔹 [Helios - ML driven Auto Threat Detection in cloud and Self Healing system](https://github.com/Nitanshu715/Helios)  
+🔹 [Helios - ML driven Auto Threat Detection in cloud and Self Healing system](https://github.com/Nitanshu715/Helios)  
   ➤ Helios is a cloud-native anomaly detection system that integrates Machine Learning (ML) with AWS Services to detect and alert anomalies across critical infrastructure metrics
   
 ---
