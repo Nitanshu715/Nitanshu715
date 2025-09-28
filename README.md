@@ -70,6 +70,12 @@ Core Concepts:
 
 - 🔹 [TransparaScore](https://github.com/Nitanshu715/TransparaScore-My-Hackathon-Explainable-Credit-Intelligence-Platform)  
   ➤ It is a Real-time explainable credit intelligence platform with the linked API from both Yahoo and Fred. It was a part of my CredTech hackathon project.
+
+- 🔹 [Zyra - Personalized Carrer Growth Advisor](https://github.com/Nitanshu715/Zyra)  
+  ➤ API integrated Personalized skill builder and study helper bot specializing in carrer support
+
+- 🔹 [Helios - ML driven Auto Threat Detection in cloud and Self Healing system](https://github.com/Nitanshu715/Helios)  
+  ➤ Helios is a cloud-native anomaly detection system that integrates Machine Learning (ML) with AWS Services to detect and alert anomalies across critical infrastructure metrics
   
 ---
 
