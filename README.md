@@ -67,8 +67,13 @@ I build **infrastructure that thinks, detects, and heals**.
 ## 🧬 Animated Development Streak (Clean Visual Only)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nitanshu715&theme=dark&hide_border=true&border_radius=8" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B10&height=110&section=header&text=Dark%20Cloud%20%CF%87%20ML%20%CF%87%20Music&fontSize=26&fontColor=FF2D2D&animation=fadeIn" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=FF2D2D&center=true&vCenter=true&width=900&lines=Cloud+nights%2C+ML+signals%2C+music+energy;Infra+like+beats%2C+always+on;Dark+pipelines%2C+bright+insights" />
+</p>
+
 
 ---
 
