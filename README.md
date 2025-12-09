@@ -65,10 +65,10 @@ I build **infrastructure that thinks, detects, and heals**.
 
 ---
 
-## 🧬 Animated Development Streak (Clean Visual Only)
+## 🧬 Animated Development Streak 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/main/data/coder.gif" width="420" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
 </p>
 
 ---
