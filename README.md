@@ -53,7 +53,7 @@ I build **infrastructure that thinks, detects, and heals**.
 
 ---
 
-## 🚨 Flagship Engineering Projects
+## 🚨 Project Highlights
 
 | Project | Domain | Core Tech | What It Actually Does |
 |--------|--------|-----------|------------------------|
