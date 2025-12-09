@@ -1,29 +1,106 @@
-<h1 align="center">Hey there 👋 I'm Nitanshu Tak</h1> <p align="center"> <em>BTech CSE (Cloud Computing) @ UPES | Code, Cloud & Real-world Projects</em><br> <strong>📍 Dehradun, India</strong> &nbsp; | &nbsp; <strong>🌐 AWS • Java • Python • Dev Tools</strong> </p> --- <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+Dev+Enthusiast;AWS+is+my+playground;I+build+real-world+tools;Always+learning+new+tech!&font=Fira%20Code&center=true&width=450&height=45&color=00C9A7&vCenter=true&pause=1000" /> </p> --- [Portfolio Repository](https://github.com/Nitanshu715/Portfolio) => A clean GitHub repo showcasing my resume, verified certifications, and all major project documentation. --- ### 🧑‍💻 About Me Hi! I'm Nitanshu — a 3rd-year Computer Science student who believes in **learning by building**. I specialize in combining **cloud automation**, **Python scripts**, and **Java GUIs** to solve real problems. From serverless monitoring to desktop budgeting apps — I’ve done a bit of both worlds. --- ### 🛠️ Tech Toolkit
-yaml
+<h1 align="center">Nitanshu Tak</h1>
+<h3 align="center">Cloud Systems • ML Observability • Security Automation • OS Engineering</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=FF2D2D&center=true&vCenter=true&width=850&lines=Cloud+is+my+battlefield.;ML+is+my+weapon.;Automation+is+my+edge.;I+engineer+real+systems+not+toy+apps." />
+</p>
+
+---
+
+## Identity
+
+BTech Computer Science (Cloud Computing) @ UPES  
+Intern – Frontend & Cloud Systems  
+Open-source Builder • Hackathon Engineer • Research-Oriented Developer  
+
+I specialize in **cloud-native automation, AI-powered observability, cybersecurity tooling, and operating system engineering**. My focus is not UI clones — I build **infrastructure intelligence systems**.
+
+---
+
+## Core Domains
+
+- Cloud Automation & DevOps  
+- ML-Based Threat Detection & Observability  
+- Security Engineering & Detection Pipelines  
+- Linux OS Engineering & Virtualization  
+- Scalable API & Microservice Design  
+
+---
+
+## Flagship Engineering Projects
+
+| Project | Domain | Tech Stack | What It Actually Does |
+|--------|--------|------------|------------------------|
+| **Helios** | ML Security + Self Healing | Python, Flask, scikit-learn, AWS EC2, S3, IAM, CloudWatch, SNS | Helios is a **real-time AI-driven anomaly detection and self-healing cloud agent**. It trains multiple ML models for CPU, network, login abuse, storage misuse & content injection. Integrated with AWS CloudWatch for metrics ingestion, SNS for instant alerts, and automated recovery workflows. |
+| **LuminaML** | Explainable Machine Learning | Python, Streamlit, TensorFlow, Pandas, NumPy, ML Pipelines | LuminaML provides **transparent financial prediction intelligence** by applying explainable AI to economic data. It avoids black-box predictions and displays full reasoning behind outputs using feature attribution models. |
+| **Observo** | AI Observability Agent | Python, OpenAI SDK, LogFire, AgentOps, Braintrust | Observo is a **cross-provider AI observability agent** enabling full ML inference tracing, log analytics, distributed monitoring, and autonomous debugging across large language model pipelines. |
+| **NitanshuOS** | Operating Systems Engineering | Buildroot, Linux Kernel, QEMU, Shell, Docker | NitanshuOS is a **fully bootable custom Linux distribution** engineered from kernel configuration to root filesystem. Built for system-level experimentation, kernel tuning, and virtualization testing. |
+| **Kevlar** | Cybersecurity Automation | Python, Security Pipelines, Cloud Automation | Kevlar is a **defensive automation framework** built to detect threats, orchestrate security workflows, and reinforce cloud infrastructure using adaptive response logic. |
+
+---
+
+## Technology Stack
+
+```yaml
 Languages:
-  - Java
   - Python
+  - Java
   - C, C++
-  - HTML/CSS
+  - Bash
 
-Cloud Stack:
-  - AWS EC2
-  - Lambda
-  - S3
-  - IAM
-  - SNS
-  - EventBridge
-  - AWS CLI
+Cloud & DevOps:
+  - AWS EC2, Lambda, S3, SNS, IAM, CloudWatch
+  - Docker
+  - CI/CD Pipelines
+  - Infrastructure Automation
 
-Tools:
-  - Git & GitHub
-  - VS Code
-  - Google Colab
-  - Cisco Packet Tracer
+Machine Learning:
+  - Anomaly Detection
+  - NLP Pipelines
+  - Explainable AI
+  - Scikit-learn, TensorFlow, PyTorch
 
-Core Concepts:
-  - OOP (Java, Python)
-  - File I/O
-  - Multithreading
-  - API Integration
---- ### 🚀 Featured Projects 🔹 [ExpenseFlow - Java Budget App](https://github.com/Nitanshu715/ExpenseFlow-A-GUI-Based-Budget-Tracker) ➤ A Java Swing GUI that helps track your expenses — with categories, threads, and persistent storage. 🔹 [FlightOps Portal](https://github.com/Nitanshu715/FlightOps-Portal) ➤ Role-based airline data tracker — Admins manage flights, Users view live details. Python + CLI + file DB. 🔹 [AWS InfraControl CLI Tool](https://github.com/Nitanshu715/-AWS-InfraControl-CLI-Tool) ➤ Real-time EC2 monitoring with auto-logging & SNS alerts — powered by EventBridge, Lambda, and S3. 🔹 [MusicPlaylist](https://github.com/Nitanshu715/MusicPlaylist) ➤ Console app in C to manage, search, and add songs to a user playlist. Includes playlist naming, song search, and artist filter. 🔹 [TransparaScore](https://github.com/Nitanshu715/TransparaScore-My-Hackathon-Explainable-Credit-Intelligence-Platform) ➤ It is a Real-time explainable credit intelligence platform with the linked API from both Yahoo and Fred. It was a part of my CredTech hackathon project. 🔹 [Zyra - Personalized Carrer Growth Advisor](https://github.com/Nitanshu715/Zyra) ➤ API integrated Personalized skill builder and study helper bot specializing in carrer support 🔹 [Helios - ML driven Auto Threat Detection in cloud and Self Healing system](https://github.com/Nitanshu715/Helios) ➤ Helios is a cloud-native anomaly detection system that integrates Machine Learning (ML) with AWS Services to detect and alert anomalies across critical infrastructure metrics --- ### 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nitanshu715&show_icons=true&theme=radical&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitanshu715&layout=compact&theme=radical&hide_border=true" height="180"/> </p> --- ### 🧠 Currently Learning - Building backend with Node.js + Express - Hosting projects on EC2 and GitHub Pages - Improving JavaScript skills --- ### 📢 Let's Connect - 💼 [LinkedIn](https://www.linkedin.com/in/nitanshu-tak-89a1ba289/) - 📧 [Email me](mailto:nitanshutak070105@gmail.com) --- <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitanshu715&theme=github_dark" /> </p> <p align="center"><em>“Consistency beats talent when talent doesn’t show up.”</em></p>
+Systems:
+  - Linux Kernel
+  - Buildroot
+  - QEMU
+  - Virtualization & Boot Pipelines
+
+Monitoring:
+  - Cloud Observability
+  - Metrics, Logs, Traces
+```
+
+---
+
+## Live Engineering Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitanshu715&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitanshu715&layout=compact&theme=radical&hide_border=true" height="180"/>
+</p>
+
+---
+
+## Certifications
+
+- OCI DevOps Professional – Oracle  
+- OCI Multicloud Architect – Oracle  
+- AWS Cloud Practitioner  
+
+---
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/nitanshu-tak-89a1ba289/  
+GitHub: https://github.com/Nitanshu715  
+Email: nitanshutak070105@gmail.com  
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitanshu715&theme=github_dark" />
+</p>
+
+<p align="center"><strong>Infrastructure doesn’t break suddenly. It whispers before it collapses.</strong></p>
+
