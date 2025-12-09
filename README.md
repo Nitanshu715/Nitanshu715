@@ -63,15 +63,11 @@ I build **infrastructure that thinks, detects, and heals**.
 | **NitanshuOS** | Operating Systems | Buildroot, Linux Kernel, QEMU, Docker, Shell | Fully bootable custom Linux OS engineered from kernel config to root filesystem. Designed for kernel experimentation & virtualization testing. |
 | **Kevlar** | Cybersecurity Automation | Python, Security Pipelines, Cloud Automation | Automated defensive security framework that detects threats and executes adaptive response workflows for hardened cloud environments. |
 
----
-
-## 🧬 Animated Development Streak 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Earth.gif" width="420"/>
 </p>
 
----
 
 ## 🎓 Certifications
 
