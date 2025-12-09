@@ -68,7 +68,7 @@ I build **infrastructure that thinks, detects, and heals**.
 ## 🧬 Animated Development Streak 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Earth.gif" width="420"/>
 </p>
 
 ---
