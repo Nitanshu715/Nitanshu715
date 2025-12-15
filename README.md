@@ -1,14 +1,15 @@
-<!-- ============ HERO HEADER ============ -->
+<!-- ============ HERO HEADER (UNCHANGED) ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1f1f,100:000000&height=260&section=header&text=Nitanshu%20Tak&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1F1F&height=230&section=header&text=Nitanshu%20Tak&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=FF2D2D&center=true&vCenter=true&width=980&lines=AWS+is+my+Playground;Cloud+Systems+Engineering;ML+Threat+Detection+Builder;Linux+OS+Engineering;Security+Automation+Enthusiast;I+build+real+infrastructure"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=600&color=FF2D2D&center=true&vCenter=true&width=950&lines=AWS+is+my+Playground;Cloud+Systems+Engineering;ML+Threat+Detection+Builder;Linux+OS+Engineering;Security+Automation+Enthusiast;I+build+real+infrastructure." />
 </p>
 
+<!-- 🔴 NEW: SECONDARY PULSE LINE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&pause=300&color=ff5c5c&center=true&vCenter=true&width=1100&lines=DETECT+%7C+ANALYZE+%7C+RESPOND+%7C+HEAL+%7C+EVOLVE"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&pause=350&color=ff5a5a&center=true&vCenter=true&width=1000&lines=DETECT+→+ANALYZE+→+RESPOND+→+HEAL+→+EVOLVE;REAL-TIME+SYSTEMS+%7C+AUTONOMOUS+INFRASTRUCTURE"/>
 </p>
 
 <p align="center">
@@ -18,11 +19,12 @@
 
 ---
 
+<!-- 🔥 ANIMATED DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 
 ## ⚡ Who I Am
 
-I’m **Nitanshu**, a systems-focused engineer building **living infrastructure**.
+I’m **Nitanshu**, a systems-focused engineer building:
 
 - Autonomous cloud platforms  
 - ML-driven threat detection engines  
@@ -33,6 +35,11 @@ I’m **Nitanshu**, a systems-focused engineer building **living infrastructure*
 I don’t build “apps for marks”.  
 I build **infrastructure that thinks, detects, and heals**.
 
+<!-- 🔴 MICRO ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=300&color=ff4444&center=true&vCenter=true&width=800&lines=SYSTEM+STATUS:+ACTIVE"/>
+</p>
+
 ---
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/circuit.png"/>
@@ -40,11 +47,16 @@ I build **infrastructure that thinks, detects, and heals**.
 ## ⚙️ Animated Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,python,linux,docker,kubernetes,git,java,c,cpp,flask,tensorflow&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,python,linux,docker,git,java,c,cpp,flask,tensorflow&theme=dark" />
+</p>
+
+<!-- 🔴 STACK MOTION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=400&color=FF4444&center=true&vCenter=true&width=1000&lines=AWS+Cloud+Automation+%7C+ML+Pipelines+%7C+Security+Engineering+%7C+Linux+Internals+%7C+Observability+Systems" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=350&color=FF4444&center=true&vCenter=true&width=1050&lines=AWS+Cloud+Automation+%7C+ML+Pipelines+%7C+Security+Engineering+%7C+Linux+Internals+%7C+Observability+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&pause=280&color=ff6666&center=true&vCenter=true&width=1100&lines=INFRASTRUCTURE+IN+MOTION+%7C+SIGNALS+OVER+SILENCE"/>
 </p>
 
 ---
@@ -68,22 +80,23 @@ I build **infrastructure that thinks, detects, and heals**.
 
 | Project | Domain | Core Tech | What It Actually Does |
 |--------|--------|-----------|------------------------|
-| **Helios** | AI Security + Self-Healing | Python, Flask, scikit-learn, AWS EC2, S3, IAM, CloudWatch, SNS | Real-time ML anomaly detection with autonomous recovery |
-| **LuminaML** | Explainable AI | Python, Streamlit, TensorFlow | Transparent ML predictions with reasoning |
-| **Observo** | AI Observability | Python, OpenAI SDK, LogFire | Full-stack AI telemetry & tracing |
-| **NitanshuOS** | Operating Systems | Linux Kernel, Buildroot, QEMU | Custom bootable Linux OS |
-| **Kevlar** | Cybersecurity | Python, Cloud Automation | Adaptive security response pipelines |
-| **Pokémon Pokédex Scanner** | Computer Vision | CNN, MobileNetV2, Streamlit | Image classification with confidence scoring |
+| **Helios** | AI Security + Self-Healing | Python, Flask, scikit-learn, AWS EC2, S3, IAM, CloudWatch, SNS | ML anomaly detection + autonomous recovery |
+| **LuminaML** | Explainable AI Platform | Python, Streamlit, TensorFlow, Pandas | Transparent ML pipelines |
+| **Observo** | AI Observability Agent | Python, OpenAI SDK, LogFire | Full ML telemetry |
+| **NitanshuOS** | Operating Systems | Buildroot, Linux Kernel, QEMU | Custom Linux OS |
+| **Kevlar** | Cybersecurity Automation | Python, Cloud Automation | Adaptive security workflows |
+| **Pokémon Pokédex Scanner** | Computer Vision | CNN, MobileNetV2, Streamlit | Image-based classification |
 
 ---
 
+<!-- 🌍 EXISTING ANIMATION (UNCHANGED) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Earth.gif" width="420"/>
 </p>
 
 ---
 
-## 📊 Live GitHub Activity
+## 📊 Live System Telemetry
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nitanshu715&show_icons=true&theme=radical&hide_border=true"/>
@@ -98,6 +111,8 @@ I build **infrastructure that thinks, detects, and heals**.
 </p>
 
 ---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 
 ## 🎓 Certifications
 
@@ -118,7 +133,7 @@ I build **infrastructure that thinks, detects, and heals**.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff1f1f&height=160&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1F1F&height=140&section=footer"/>
 </p>
 
 <p align="center"><b>Infrastructure whispers before collapse. I engineer the systems that listen.</b></p>
