@@ -1,10 +1,14 @@
-<!-- ================= HERO SECTION ================= -->
+<!-- ===================== POWER BOOT SEQUENCE ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1F1F&height=260&section=header&text=Nitanshu%20Tak&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0000,100:000000&height=300&section=header&text=NITANSHU%20TAK&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=50"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=600&color=FF2D2D&center=true&vCenter=true&width=1000&lines=AWS+is+my+Playground;Cloud+Systems+Engineering;AI-Powered+Security+Automation;Linux+OS+Engineering;Infrastructure+That+Transforms+%26+Heals" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=400&color=FF0000&center=true&vCenter=true&width=1000&lines=SYSTEM+BOOTING...;AWS+IS+MY+PLAYGROUND;CLOUD+SYSTEMS+ENGINEERING;AI+SECURITY+AUTOMATION;INFRASTRUCTURE+THAT+EVOLVES"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=300&color=ff4d4d&center=true&vCenter=true&width=1100&lines=REAL+TIME+DETECTION+%7C+AUTO+REMEDIATION+%7C+OBSERVABILITY+%7C+SELF+HEALING"/>
 </p>
 
 <p align="center">
@@ -14,94 +18,91 @@
 
 ---
 
-## ⚡ SYSTEM CORE // IDENTITY
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 
-```txt
-STATUS        : ONLINE
-MODE          : TRANSFORMATION-READY
-ARCHITECTURE  : CLOUD-NATIVE + AI-ASSISTED
-OBJECTIVE     : BUILD INFRASTRUCTURE THAT REACTS, DEFENDS, AND EVOLVES
+## 🧠 CORE SYSTEM PROFILE
+
+```yaml
+status: ACTIVE
+power_mode: ADAPTIVE
+stack: CLOUD + AI + SECURITY
+design_philosophy: INFRASTRUCTURE SHOULD REACT
 ```
 
-I’m **Nitanshu** — a systems-first engineer.
+I don’t build static applications.  
+I design **dynamic systems** that sense pressure, predict failure, and adapt in motion.
 
-I don’t build apps for grades.  
-I don’t ship demo-tier projects.
-
-I engineer **high-energy cloud systems** that:
-- ⚡ sense anomalies in real time  
-- 🛡️ trigger defensive countermeasures  
-- 🔁 self-heal without human intervention  
-- 🧠 explain their own decisions  
-
-Infrastructure shouldn’t be silent.  
-It should **respond**.
+My work lives where:
+- telemetry becomes intelligence  
+- alerts become actions  
+- infrastructure becomes autonomous  
 
 ---
 
-## ⚙️ ACTIVE TECH STACK (LIVE)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
+
+## ⚙️ LIVE TECH MODULES
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,python,docker,git,java,c,cpp,flask,tensorflow&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,python,docker,kubernetes,git,java,c,cpp,flask,tensorflow&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=400&color=FF4444&center=true&vCenter=true&width=1100&lines=Cloud+Automation+%7C+AI+Threat+Detection+%7C+Self-Healing+Systems+%7C+Linux+Internals+%7C+Observability+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&pause=250&color=ff1a1a&center=true&vCenter=true&width=1100&lines=CLOUD+AUTOMATION+ENGINE;AI+THREAT+DETECTION+CORE;LINUX+KERNEL+EXPERIMENTATION;SECURITY+RESPONSE+PIPELINES"/>
 </p>
 
 ---
 
-## 🧠 ENGINEERING DOMAINS
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/circuit.png"/>
 
-- Cloud Automation & DevOps Pipelines  
-- AI-Based Threat Detection  
-- Self-Healing Infrastructure  
-- Cybersecurity Automation  
-- Linux OS Engineering & Virtualization  
-- ML Observability & Telemetry  
+## 🚨 DEPLOYED SYSTEMS
 
----
-
-## 🚨 PROJECT MATRIX // DEPLOYED SYSTEMS
-
-| Project | Domain | Core Tech | System Behavior |
-|-------|-------|-----------|----------------|
-| **Helios** | AI Security + Self-Healing | Python, Flask, scikit-learn, AWS EC2, S3, IAM, CloudWatch, SNS | Detects infra anomalies (CPU abuse, intrusion attempts, network misuse) and auto-triggers recovery & alerts |
-| **Kevlar** | Cybersecurity Automation | Python, Cloud Automation, Security Pipelines | Adaptive cloud defense framework executing real-time response workflows |
-| **NitanshuOS** | Operating Systems | Linux Kernel, Buildroot, QEMU, Docker, Shell | Fully bootable custom Linux OS engineered from kernel to root filesystem |
-| **Observo** | AI Observability | Python, AgentOps, Braintrust, LogFire | Deep telemetry, tracing, and debugging for AI inference pipelines |
-| **LuminaML** | Explainable AI | Python, TensorFlow, Streamlit | Transparent ML pipelines showing reasoning behind predictions |
-| **Pokémon Pokédex Scanner** | Computer Vision | Python, CNN, MobileNetV2, Streamlit | Image-based Pokémon classification using transfer learning with confidence scores |
+| SYSTEM | DOMAIN | CORE TECH | OPERATION |
+|------|-------|----------|-----------|
+| **Helios** | AI Security | Python, AWS, ML, CloudWatch | Detects anomalies and auto-triggers remediation |
+| **Kevlar** | Cloud Defense | Python, Security Pipelines | Adaptive security automation |
+| **NitanshuOS** | OS Engineering | Linux Kernel, Buildroot, QEMU | Custom bootable Linux OS |
+| **Observo** | Observability | Python, AgentOps, Braintrust | AI inference tracing & telemetry |
+| **LuminaML** | Explainable AI | TensorFlow, Streamlit | Transparent ML decisions |
+| **Pokémon Pokédex Scanner** | Computer Vision | CNN, MobileNetV2, Streamlit | Image-based classification with confidence scores |
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Earth.gif" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitanshu715&show_icons=true&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nitanshu715&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🎓 CERTIFICATIONS // VERIFIED
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/energy.png"/>
 
-- OCI DevOps Professional — Oracle  
-- OCI Multicloud Architect Professional — Oracle  
-- AWS Cloud Practitioner — Completion via GFG  
+## 🎓 CERTIFICATION MATRIX
+
+- OCI DevOps Professional  
+- OCI Multicloud Architect Professional  
+- AWS Cloud Practitioner  
 
 ---
 
-## 🌐 CONNECT // INTERFACE
+## 🌐 COMMUNICATION INTERFACE
 
-- 🔗 GitHub → https://github.com/Nitanshu715  
-- 💼 LinkedIn → https://www.linkedin.com/in/nitanshu-tak-89a1ba289/  
-- 📧 Email → nitanshutak070105@gmail.com  
+<p align="center">
+<a href="https://github.com/Nitanshu715"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=red"/></a>
+<a href="https://www.linkedin.com/in/nitanshu-tak-89a1ba289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nitanshutak070105@gmail.com"><img src="https://img.shields.io/badge/Email-darkred?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1F1F&height=160&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ff0000&height=160&section=footer&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <b>Infrastructure whispers before collapse.<br>I engineer the systems that hear it coming.</b>
+  <b>Infrastructure doesn’t fail suddenly.<br>It gives signals. I build systems that listen.</b>
 </p>
 
