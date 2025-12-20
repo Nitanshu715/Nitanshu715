@@ -9,8 +9,8 @@
 
 
 <p align="center">
-  <b>BTech CSE (Cloud Computing and Virtualization Technology) @ UPES • Dehradun, India</b><br>
-  <b>Cloud × AI × Security × Systems</b>
+  <b>BTech CSE (Cloud Computing & Virtualization Technology) @ UPES • Dehradun, India</b><br>
+  <b>Cloud × AI/ML × Security × Systems</b>
 </p>
 
 ---
