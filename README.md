@@ -83,7 +83,7 @@ I build **infrastructure that thinks, detects, and heals**.
 <p align="center">
 <a href="https://github.com/Nitanshu715"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=red"/></a>
 <a href="https://www.linkedin.com/in/nitanshu-tak-89a1ba289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:nitanshutak070105@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nitanshutak070105@gmail.com">
   <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>  
