@@ -75,7 +75,9 @@ I build **infrastructure that thinks, detects, and heals**.
 - OCI DevOps Professional – Oracle  
 - OCI Multicloud Architect Professional – Oracle  
 - AWS Cloud Practitioner  - Completion via GFG
-
+- AWS Architecting  - AWS Academy
+- AWS Operations - AWS Academy
+- AWS Foundations - AWS Academy
 ---
 
 ## 🌐 Connect
