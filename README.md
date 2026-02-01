@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=600&color=FF2D2D&center=true&vCenter=true&width=950&lines=AWS+is+my+Playground;Cloud+Systems+Engineering;ML+Threat+Detection+Builder;Linux+OS+Engineering;Security+Automation+Enthusiast;I+build+real+infrastructure." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=600&color=FF2D2D&center=true&vCenter=true&width=950&lines=AWS+is+my+Playground;Cloud+Systems+Engineering;SRE+Entusiast;ML+Threat+Detection+Builder;Linux+OS+Engineering;Security+Automation+Enthusiast;I+build+real+infrastructure." />
 </p>
 
 
