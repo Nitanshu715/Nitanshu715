@@ -65,9 +65,6 @@ I build **infrastructure that thinks, detects, and heals**.
 | **Pokémon Pokédex** | Computer Vision | Python, CNN, MobileNetV2, Streamlit | AI-powered Pokémon Pokédex that uses a deep learning CNN model to identify Pokémon from images with confidence scoring, stats extraction, and a full interactive web interface. |
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="100%"/>
-</p>
 
 
 
