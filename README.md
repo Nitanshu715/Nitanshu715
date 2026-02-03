@@ -66,8 +66,9 @@ I build **infrastructure that thinks, detects, and heals**.
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/QvBoMEcQ7DQXK/giphy.gif" width="100%"/>
 </p>
+
 
 
 ## 🎓 Certifications
