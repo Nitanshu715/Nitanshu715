@@ -66,9 +66,8 @@ I build **infrastructure that thinks, detects, and heals**.
 
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Nitanshu715&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212263450-0d39e1c6-6db8-4b65-8c4f-8a7c7a2a02f5.gif" width="700"/>
 </p>
-
 
 ## 🎓 Certifications
 
