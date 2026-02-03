@@ -53,6 +53,12 @@ I build **infrastructure that thinks, detects, and heals**.
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=600&color=FF4444&center=true&vCenter=true&width=850&lines=Helios+Status%3A+Monitoring...;Anomaly+Detection%3A+Active;Self-Healing+Engine%3A+Online;Threat+Model%3A+Loaded" />
+</p>
+
+---
+
 ## 🚨 Project Highlights
 
 | Project | Domain | Core Tech | What It Actually Does |
@@ -97,6 +103,3 @@ I build **infrastructure that thinks, detects, and heals**.
 </p>
 
 <p align="center"><b>Infrastructure whispers before collapse. I engineer the systems that listen.</b></p>
-
-
-
