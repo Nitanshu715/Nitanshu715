@@ -64,7 +64,7 @@ I build **infrastructure that thinks, detects, and heals**.
 | **Kevlar** | Cybersecurity Automation | Python, Security Pipelines, Cloud Automation | Automated defensive security framework that detects threats and executes adaptive response workflows for hardened cloud environments. |
 | **Pokémon Pokédex** | Computer Vision | Python, CNN, MobileNetV2, Streamlit | AI-powered Pokémon Pokédex that uses a deep learning CNN model to identify Pokémon from images with confidence scoring, stats extraction, and a full interactive web interface. |
 
-<img src="https://raw.githubusercontent.com/Nitanshu715/Nitanshu715/main/rotating-nebula.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Nitanshu715/Nitanshu715/main/rotating-nebula.gif" width="10%">
 
 <p align="center"> <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Earth.gif" width="420"/> </p>
 
