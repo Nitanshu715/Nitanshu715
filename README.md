@@ -53,13 +53,6 @@ I build **infrastructure that thinks, detects, and heals**.
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="350"/>
-</p>
-
-
----
-
 ## 🚨 Project Highlights
 
 | Project | Domain | Core Tech | What It Actually Does |
@@ -73,7 +66,7 @@ I build **infrastructure that thinks, detects, and heals**.
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Earth.gif" width="420"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Nitanshu715&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
 
 
