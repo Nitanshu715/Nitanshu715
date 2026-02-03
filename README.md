@@ -36,8 +36,8 @@ I build **infrastructure that thinks, detects, and heals**.
 graph TD
     Curiosity --> Learning
     Learning --> SystemsThinking
-    SystemsThinking --> Automation
-    Automation --> Scale
+    SystemsThinking --> Build
+    Build --> Scale
     Scale --> Impact
     Impact --> Curiosity
 ```
