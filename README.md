@@ -30,6 +30,28 @@ I build **infrastructure that thinks, detects, and heals**.
 
 ---
 
+<details>
+<summary>🧠 Cognitive System</summary>
+
+<details>
+<summary>⚙️ Thinking Mode</summary>
+
+System default: optimization-first
+
+</details>
+
+<details>
+<summary>🔥 Stress Response</summary>
+
+CPU usage ↑  
+Focus lock engaged  
+
+</details>
+
+</details>
+
+---
+
 ## ⚙️ Animated Tech Arsenal
 
 <p align="center">
