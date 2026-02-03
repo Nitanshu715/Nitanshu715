@@ -65,7 +65,13 @@ I build **infrastructure that thinks, detects, and heals**.
 | **Pokémon Pokédex** | Computer Vision | Python, CNN, MobileNetV2, Streamlit | AI-powered Pokémon Pokédex that uses a deep learning CNN model to identify Pokémon from images with confidence scoring, stats extraction, and a full interactive web interface. |
 
 <p align="center"> <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Earth.gif" width="420"/> </p>
-
+<div style="position: relative;">
+  <!-- Background GIF (e.g., a static image or a larger gif) -->
+  <img src="https://raw.githubusercontent.com/Nitanshu715/Nitanshu715/main/rotating-nebula.gif" alt="Background" style="position: relative; top: 0; left: 0; z-index: 1;">
+  
+  <!-- Overlay GIF (the smaller, overlapping gif) -->
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Earth.gif" alt="Overlay" style="position: absolute; top: 10px; left: 10px; z-index: 2;">
+</div>
 
 ## 🎓 Certifications
 
