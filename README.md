@@ -30,25 +30,115 @@ I build **infrastructure that thinks, detects, and heals**.
 
 ---
 
-<details>
-<summary>🧠 Cognitive System</summary>
+<div align="center">
 
-<details>
-<summary>⚙️ Thinking Mode</summary>
+# NITANSHU TAK  
+### SYSTEMS • CLOUD • AI • SECURITY • DEVOPS • SRE • ML
 
-System default: optimization-first
+</div>
+
+══════════════════════════════════════════════════════════
+
+<details open>
+<summary><b>COGNITIVE ARCHITECTURE</b></summary>
+
+<table>
+<tr><td width="50%">
+
+**Thinking Model**  
+Optimization-first  
+Systems over shortcuts  
+Depth over surface  
+
+</td><td width="50%">
+
+**Stress Handling**  
+Processing priority elevated  
+Noise suppressed  
+Focus channel locked  
+
+</td></tr>
+</table>
 
 </details>
 
+══════════════════════════════════════════════════════════
+
+## SYSTEM PROFILE
+
+<details open>
+<summary><b>CORE OPERATING MODES</b></summary>
+
+| Mode | State |
+|------|------|
+| Research | Active |
+| Build | Default |
+| Debug | Triggered by failure |
+| Exploration | Continuous |
+
+</details>
+
+══════════════════════════════════════════════════════════
+
 <details>
-<summary>🔥 Stress Response</summary>
+<summary><b>COGNITIVE NETWORK MAP</b></summary>
 
-CPU usage ↑  
-Focus lock engaged  
+```mermaid
+graph TD
+    Curiosity --> Learning
+    Learning --> SystemsThinking
+    SystemsThinking --> Automation
+    Automation --> Scale
+    Scale --> Impact
+    Impact --> Curiosity
+```
+</details>
+
+══════════════════════════════════════════════════════════
+
+<details>
+<summary><b>ENGINEERING LAWS</b></summary>
+
+1. Anything repetitive must be automated  
+2. Systems must be observable  
+3. Failure is expected — recovery is engineered  
+4. Intelligence belongs inside infrastructure  
 
 </details>
 
+══════════════════════════════════════════════════════════
+
+<details>
+<summary><b>ACTIVE THOUGHT STACK</b></summary>
+
+• Autonomous infrastructure  
+• AI inside monitoring systems  
+• Reducing human-in-the-loop ops  
+• Deep system observability  
+
 </details>
+
+══════════════════════════════════════════════════════════
+
+<details>
+<summary><b>SIGNAL STATUS</b></summary>
+
+Status: Online  
+Mode: Building  
+Signal Strength: ██████████  
+Location: Earth  
+
+</details>
+
+══════════════════════════════════════════════════════════
+
+<div align="center">
+
+**INFRASTRUCTURE WHISPERS BEFORE COLLAPSE. SYSTEMS LISTEN.**
+
+</div>
+
+
 
 ---
 
