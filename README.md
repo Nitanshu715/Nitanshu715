@@ -54,8 +54,9 @@ I build **infrastructure that thinks, detects, and heals**.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=600&color=FF4444&center=true&vCenter=true&width=850&lines=Helios+Status%3A+Monitoring...;Anomaly+Detection%3A+Active;Self-Healing+Engine%3A+Online;Threat+Model%3A+Loaded" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="350"/>
 </p>
+
 
 ---
 
