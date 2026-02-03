@@ -66,7 +66,7 @@ I build **infrastructure that thinks, detects, and heals**.
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QvBoMEcQ7DQXK/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="100%"/>
 </p>
 
 
