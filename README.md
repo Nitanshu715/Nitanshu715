@@ -32,9 +32,6 @@ I build **infrastructure that thinks, detects, and heals**.
 
 <div align="center">
 
-<details>
-<summary><b>COGNITIVE NETWORK MAP</b></summary>
-
 ```mermaid
 graph TD
     Curiosity --> Learning
