@@ -13,7 +13,6 @@
   &nbsp;
   <a href="mailto:nitanshutak070105@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   &nbsp;
-  <a href="https://leetcode.com/u/Nitanshu_tak070105/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
