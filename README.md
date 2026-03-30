@@ -126,58 +126,58 @@ graph TD
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/-%F0%9F%8F%85%20COMPETITIVE%20EXCELLENCE-6C3CE1?style=for-the-badge&labelColor=2d1f6e"/>
+      <img src="https://img.shields.io/badge/-%F0%9F%8F%85%20GLOBAL%20RANKING%20%26%20COMPETITIVE%20EXCELLENCE-6C3CE1?style=for-the-badge&labelColor=2d1f6e"/>
       <br/><br/>
-      <b>University Rank 2 — Unstop</b><br/>
-      <sub>Global Top 0.21% &nbsp;·&nbsp; Unstop Talent Awards 2026 Nominee</sub>
+      <b>Global Top 0.21% — Unstop Competitions</b><br/>
+      <sub>University Rank 2 &nbsp;·&nbsp; Unstop Talent Awards 2026 Nominee</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/-%F0%9F%8E%A4%20RESEARCH%20%26%20PUBLICATION-0d6efd?style=for-the-badge&labelColor=082a70"/>
+      <img src="https://img.shields.io/badge/-%F0%9F%8E%A4%20RESEARCH%20%26%20INTERNATIONAL%20PUBLICATION-0d6efd?style=for-the-badge&labelColor=082a70"/>
       <br/><br/>
-      <b>ICATEET 2026 — International Conference Presenter</b><br/>
-      <sub>Helios: AI-Enabled Secure Cloud Infrastructure</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/-%E2%98%81%EF%B8%8F%20GOOGLE%20CLOUD%20ARCADE%202025-4285F4?style=for-the-badge&labelColor=0b3d91"/>
-      <br/><br/>
-      <b>Diamond League &nbsp;·&nbsp; Trooper Tier</b><br/>
-      <sub>14,852 Points Earned</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/-%F0%9F%8C%B1%20HACK%20FOR%20GREEN%20BHARAT-2ea44f?style=for-the-badge&labelColor=14532d"/>
-      <br/><br/>
-      <b>Top 100 / 7,000+ Teams</b><br/>
-      <sub>Navika RAG Finance Platform</sub>
+      <b>International Conference Presenter — ICATEET 2026</b><br/>
+      <sub>Published & Demonstrated “Helios” — AI-Driven Secure Cloud Infrastructure</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/-%E2%9A%A1%20ET%20GENAI%20HACKATHON%202026-FF5722?style=for-the-badge&labelColor=7f2d00"/>
+      <img src="https://img.shields.io/badge/-%E2%98%81%EF%B8%8F%20CLOUD%20ENGINEERING%20EXCELLENCE-4285F4?style=for-the-badge&labelColor=0b3d91"/>
       <br/><br/>
-      <b>Phase 2 Shortlisted — PS-5</b><br/>
-      <sub>MediFlow AI &nbsp;·&nbsp; 5-Agent Healthcare Pipeline</sub>
+      <b>Google Cloud Arcade 2025 — Diamond League</b><br/>
+      <sub>Top Tier Performer &nbsp;·&nbsp; 14,852 Points &nbsp;·&nbsp; Advanced Cloud Labs Execution</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/-%F0%9F%94%AC%20NATIONAL%20QUANTUM%20HACKATHON%202025-7c3aed?style=for-the-badge&labelColor=3b0764"/>
+      <img src="https://img.shields.io/badge/-%F0%9F%8C%B1%20NATIONAL%20HACKATHON%20IMPACT-2ea44f?style=for-the-badge&labelColor=14532d"/>
       <br/><br/>
-      <b>Round 2 Qualifier</b><br/>
-      <sub>Quantum-Cloud QCRS &nbsp;·&nbsp; QAOA Scheduler</sub>
+      <b>Top 100 / 7,000+ Teams — Hack For Green Bharat</b><br/>
+      <sub>Built “Navika” — RAG-Based Financial Intelligence Platform</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/-%F0%9F%9B%A1%EF%B8%8F%20IDEATHON%20FINALIST-dc2626?style=for-the-badge&labelColor=7f1d1d"/>
+      <img src="https://img.shields.io/badge/-%E2%9A%A1%20GENAI%20SYSTEMS%20ENGINEERING-FF5722?style=for-the-badge&labelColor=7f2d00"/>
       <br/><br/>
-      <b>Solo Finalist — Kevlar</b><br/>
-      <sub>Presented to Industry Professionals</sub>
+      <b>ET GenAI Hackathon 2026 — Phase 2 Shortlisted</b><br/>
+      <sub>MediFlow AI — Autonomous 5-Agent Healthcare Pipeline (6hrs → 28 sec)</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/-%F0%9F%8E%93%20CAMPUS%20AMBASSADOR-0f172a?style=for-the-badge&labelColor=1e293b"/>
+      <img src="https://img.shields.io/badge/-%F0%9F%94%AC%20QUANTUM%20COMPUTING%20%26%20OPTIMIZATION-7c3aed?style=for-the-badge&labelColor=3b0764"/>
       <br/><br/>
-      <b>IIT Roorkee E-Summit 2026</b><br/>
-      <sub>IIM Indore IRIS &nbsp;·&nbsp; IIT Delhi EDC</sub>
+      <b>National Quantum Hackathon 2025 — Round 2</b><br/>
+      <sub>Designed QAOA-Based Cloud Scheduler (Quantum Optimization)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-%F0%9F%9B%A1%EF%B8%8F%20CYBERSECURITY%20%26%20SYSTEMS%20DEFENSE-dc2626?style=for-the-badge&labelColor=7f1d1d"/>
+      <br/><br/>
+      <b>Ideathon Finalist (Solo) — Kevlar</b><br/>
+      <sub>Presented ML-Based Security System to Industry Experts</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-%F0%9F%8E%93%20LEADERSHIP%20%26%20COMMUNITY%20IMPACT-0f172a?style=for-the-badge&labelColor=1e293b"/>
+      <br/><br/>
+      <b>Campus Ambassador — IIT Roorkee, IIT Delhi, IIM Indore</b><br/>
+      <sub>Selected for National-Level Tech & Innovation Programs</sub>
     </td>
   </tr>
 </table>
