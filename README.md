@@ -176,7 +176,7 @@ graph TD
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/-%F0%9F%8E%93%20LEADERSHIP%20%26%20COMMUNITY%20IMPACT-0f172a?style=for-the-badge&labelColor=1e293b"/>
       <br/><br/>
-      <b>Campus Ambassador — IIT Roorkee, IIT Delhi, IIM Indore</b><br/>
+      <b>Campus Ambassador — LetsUpgrade, Internshala Student Partner, IIT Roorkee E-Summit 2026, IIM Indore IRIS, IIT Delhi EDC</b><br/>
       <sub>Selected for National-Level Tech & Innovation Programs</sub>
     </td>
   </tr>
