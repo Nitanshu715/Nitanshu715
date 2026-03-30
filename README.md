@@ -78,7 +78,7 @@ graph TD
 | **Cloud DSL Compiler** | Systems + Compilers | Python · PLY · ANTLR4 · Jinja2 · Docker · Kubernetes | Full 6-phase DSL compiler (Lexer→Parser→AST→Semantic→IR→Codegen). **150 lines → 5 lines.** Emits Dockerfile + K8s YAML + CloudFormation. |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nitanshu715/Nitanshu715/main/rotating-nebula.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/Nitanshu715/Nitanshu715/main/bb6c0ebb515d9367bff85b5aeb7f2f2b.gif" width="400"/>
 </p>
 
 ---
