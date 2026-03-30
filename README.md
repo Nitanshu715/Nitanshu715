@@ -121,7 +121,8 @@ graph TD
 
 ---
 
-🏆 Achievements & Recognition
+## 🏆 Achievements & Recognition
+
 <table>
   <tr>
     <td align="center" width="50%">
