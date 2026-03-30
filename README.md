@@ -131,7 +131,7 @@ Campus Ambassador — IIT Roorkee E-Summit 2026 · IIM Indore IRIS · IIT Delhi 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d1117&height=130&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1F1F&height=140&section=footer"/>
 </p>
 
 <p align="center">
