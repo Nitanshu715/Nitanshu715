@@ -42,7 +42,7 @@ I don't build "apps for marks". I build **infrastructure that thinks, detects, a
 </p>
 
 <p align="center">
-  <img src="./ArtemisII.jpg" width="420"/>
+  <img src="./ArtemisII.jpg" width="1000"/>
 </p>
 
 <p align="center">
