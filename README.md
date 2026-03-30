@@ -156,7 +156,7 @@ graph TD
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/-%E2%9A%A1%20GENAI%20SYSTEMS%20ENGINEERING-FF5722?style=for-the-badge&labelColor=7f2d00"/>
       <br/><br/>
-      <b>ET GenAI Hackathon 2026 — Phase 2 Shortlisted</b><br/>
+      <b>ET GenAI Hackathon 2025 - Semi-Finalist</b><br/>
       <sub>MediFlow AI — Autonomous 5-Agent Healthcare Pipeline (6hrs → 28 sec)</sub>
     </td>
     <td align="center" width="50%">
