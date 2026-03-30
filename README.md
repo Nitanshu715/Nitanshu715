@@ -32,6 +32,33 @@ I don't build "apps for marks". I build **infrastructure that thinks, detects, a
 
 ---
 
+<!-- ================= ARTEMIS BOARDING PASS ================= -->
+
+## 🚀 Artemis II — Boarding Pass
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NASA%20Artemis%20II-Lunar%20Mission-0B3D91?style=for-the-badge&logo=nasa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Name%20Onboard-1F8B4C?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="./ArtemisII.jpg" width="420"/>
+</p>
+
+<p align="center">
+  <b>Passenger:</b> Nitanshu Tak<br/>
+  <b>Mission:</b> Artemis II — Lunar Flyby 🌕<br/>
+  <b>Launch Site:</b> Kennedy Space Center, Florida<br/>
+  <b>Vehicle:</b> Space Launch System (SLS) 🚀<br/>
+  <b>Spacecraft:</b> Orion Crew Capsule<br/>
+</p>
+
+<p align="center">
+  <i>Part of a mission pushing human exploration beyond Earth.</i>
+</p>
+
+---
+
 <div align="center">
 
 ```mermaid
