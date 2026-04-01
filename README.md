@@ -181,10 +181,10 @@ graph TD
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/-%F0%9F%87%AE%F0%9F%87%B3%20NATIONAL%20FLAGSHIP%20SELECTION-138808?style=for-the-badge&labelColor=0a3d05"/>
+      <img src="https://img.shields.io/badge/-%F0%9F%92%BB%20HP%20POWER%20LAB%202.0%20%E2%80%94%20CAMPUS%20WINNER-0096D6?style=for-the-badge&labelColor=004a99"/>
       <br/><br/>
-      <b>Smart India Hackathon 2024 — Selected Team</b><br/>
-      <sub>Team GenMinds &nbsp;·&nbsp; Built "Saarva: Health for All" — a full-stack digital healthcare platform with AI disease prediction &nbsp;·&nbsp; Selected among thousands of national teams for India's largest government-backed hackathon</sub>
+      <b>HP Power Lab 2.0 — Campus Winner</b><br/>
+      <sub>Selected as campus-level winners in HP Inc.'s national innovation and technology challenge &nbsp;·&nbsp; Competed against teams across disciplines to earn the HP Power Lab recognition</sub>
     </td>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/-%F0%9F%92%AA%20HERO%20CAMPUS%20CHALLENGE%20S10%20--%20WINNER-e11d48?style=for-the-badge&labelColor=881337"/>
