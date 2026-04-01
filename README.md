@@ -128,59 +128,86 @@ graph TD
       <img src="https://img.shields.io/badge/-%F0%9F%8F%85%20GLOBAL%20RANKING%20%26%20COMPETITIVE%20EXCELLENCE-6C3CE1?style=for-the-badge&labelColor=2d1f6e"/>
       <br/><br/>
       <b>Global Top 0.21% — Unstop Competitions</b><br/>
-      <sub>University Rank 2 &nbsp;·&nbsp; Unstop Talent Awards 2026 Nominee</sub>
+      <sub>University Rank 2 &nbsp;·&nbsp; Ranked among the top performers nationally across 500,000+ student competitors</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/-%F0%9F%8E%A4%20RESEARCH%20%26%20INTERNATIONAL%20PUBLICATION-0d6efd?style=for-the-badge&labelColor=082a70"/>
+      <img src="https://img.shields.io/badge/-%F0%9F%8C%9F%20TALENT%20AWARDS%20NOMINEE-FFD700?style=for-the-badge&labelColor=7a5c00"/>
       <br/><br/>
-      <b>International Conference Presenter — ICATEET 2026</b><br/>
-      <sub>Published & Demonstrated “Helios” — AI-Driven Secure Cloud Infrastructure</sub>
+      <b>Unstop Talent Awards 2026 — Nominee</b><br/>
+      <sub>Nominated for national recognition among India's top student builders and competition performers</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/-%E2%98%81%EF%B8%8F%20CLOUD%20ENGINEERING%20EXCELLENCE-4285F4?style=for-the-badge&labelColor=0b3d91"/>
+      <img src="https://img.shields.io/badge/-%F0%9F%8E%A4%20INTERNATIONAL%20RESEARCH%20%26%20PUBLICATION-0d6efd?style=for-the-badge&labelColor=082a70"/>
       <br/><br/>
-      <b>Google Cloud Arcade 2025 — Diamond League</b><br/>
-      <sub>Top Tier Performer &nbsp;·&nbsp; 14,852 Points &nbsp;·&nbsp; Advanced Cloud Labs Execution</sub>
+      <b>Published Author & Presenter — ICATEET 2026</b><br/>
+      <sub>Research paper "Helios: AI-Enabled Secure Cloud Infrastructure" accepted, published, and demonstrated live at an international conference with researchers and industry professionals across domains</sub>
     </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-%E2%9A%A1%20GENAI%20SYSTEMS%20ENGINEERING-FF5722?style=for-the-badge&labelColor=7f2d00"/>
+      <br/><br/>
+      <b>ET GenAI Hackathon 2026 — Semi-Finalist</b><br/>
+      <sub>MediFlow AI — Autonomous 5-Agent Healthcare Claims Pipeline &nbsp;·&nbsp; 6 hrs → 28 sec &nbsp;·&nbsp; Qualified and ranked among top teams from thousands of national entries</sub>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/-%F0%9F%8C%B1%20NATIONAL%20HACKATHON%20IMPACT-2ea44f?style=for-the-badge&labelColor=14532d"/>
       <br/><br/>
       <b>Top 100 / 7,000+ Teams — Hack For Green Bharat</b><br/>
-      <sub>Built “Navika” — RAG-Based Financial Intelligence Platform</sub>
+      <sub>Built "Navika" — RAG-Based Financial Intelligence Platform &nbsp;·&nbsp; Shortlisted nationally among 7,000+ competing teams</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-%E2%98%81%EF%B8%8F%20CLOUD%20ENGINEERING%20EXCELLENCE-4285F4?style=for-the-badge&labelColor=0b3d91"/>
+      <br/><br/>
+      <b>Google Cloud Arcade 2025 — Diamond League & Trooper Tier</b><br/>
+      <sub>14,852 Points &nbsp;·&nbsp; Achieved both Diamond League and Trooper Tier (52 pts) through advanced hands-on cloud architecture labs — top-tier performance in the national cohort</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/-%E2%9A%A1%20GENAI%20SYSTEMS%20ENGINEERING-FF5722?style=for-the-badge&labelColor=7f2d00"/>
-      <br/><br/>
-      <b>ET GenAI Hackathon 2025 - Semi-Finalist</b><br/>
-      <sub>MediFlow AI — Autonomous 5-Agent Healthcare Pipeline (6hrs → 28 sec)</sub>
-    </td>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/-%F0%9F%94%AC%20QUANTUM%20COMPUTING%20%26%20OPTIMIZATION-7c3aed?style=for-the-badge&labelColor=3b0764"/>
       <br/><br/>
-      <b>National Quantum Hackathon 2025 — Round 2</b><br/>
-      <sub>Designed QAOA-Based Cloud Scheduler (Quantum Optimization)</sub>
+      <b>National Quantum Computing Hackathon 2025 — Round 2</b><br/>
+      <sub>Designed and built a QAOA-Based Cloud Resource Scheduler on Qiskit &nbsp;·&nbsp; Qualified into Round 2 of India's national quantum computing competition</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-%F0%9F%9B%A1%EF%B8%8F%20CYBERSECURITY%20%26%20SYSTEMS%20DEFENSE-dc2626?style=for-the-badge&labelColor=7f1d1d"/>
+      <br/><br/>
+      <b>Ideathon 1.0 — Finalist (Solo)</b><br/>
+      <sub>Kevlar — ML-Powered Browser Security Suite &nbsp;·&nbsp; Reached the final round as a solo representative and pitched to industry professionals and founders</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/-%F0%9F%9B%A1%EF%B8%8F%20CYBERSECURITY%20%26%20SYSTEMS%20DEFENSE-dc2626?style=for-the-badge&labelColor=7f1d1d"/>
+      <img src="https://img.shields.io/badge/-%F0%9F%87%AE%F0%9F%87%B3%20NATIONAL%20FLAGSHIP%20SELECTION-138808?style=for-the-badge&labelColor=0a3d05"/>
       <br/><br/>
-      <b>Ideathon Finalist (Solo) — Kevlar</b><br/>
-      <sub>Presented ML-Based Security System to Industry Experts</sub>
+      <b>Smart India Hackathon 2024 — Selected Team</b><br/>
+      <sub>Team GenMinds &nbsp;·&nbsp; Built "Saarva: Health for All" — a full-stack digital healthcare platform with AI disease prediction &nbsp;·&nbsp; Selected among thousands of national teams for India's largest government-backed hackathon</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/-%F0%9F%8E%93%20LEADERSHIP%20%26%20COMMUNITY%20IMPACT-0f172a?style=for-the-badge&labelColor=1e293b"/>
+      <img src="https://img.shields.io/badge/-%F0%9F%92%AA%20HERO%20CAMPUS%20CHALLENGE%20S10%20--%20WINNER-e11d48?style=for-the-badge&labelColor=881337"/>
       <br/><br/>
-      <b>Campus Ambassador — LetsUpgrade, Internshala Student Partner, IIT Roorkee E-Summit 2026, IIM Indore IRIS, IIT Delhi EDC</b><br/>
-      <sub>Selected for National-Level Tech & Innovation Programs</sub>
+      <b>Hero Campus Challenge Season 10 — Winner</b><br/>
+      <sub>Declared in the winners list in the national online assessment round &nbsp;·&nbsp; Hero MotoCorp's flagship pan-India student challenge</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-%F0%9F%9B%B0%EF%B8%8F%20SPACE%20PROGRAMME%20SELECTION-0f172a?style=for-the-badge&labelColor=1e3a5f"/>
+      <br/><br/>
+      <b>NASA Artemis II — Boarding Pass Registered</b><br/>
+      <sub>Name registered aboard the NASA Artemis II Lunar Flyby mission &nbsp;·&nbsp; Part of a programme advancing human exploration beyond Earth</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-%F0%9F%9B%B0%EF%B8%8F%20GEOSPATIAL%20AI%20%E2%80%94%20ISRO%20%2F%20NRSC%20PORTFOLIO-FF6B00?style=for-the-badge&labelColor=7f3300"/>
+      <br/><br/>
+      <b>SuryaDrishti — ISRO / NRSC Research Portfolio</b><br/>
+      <sub>AI-powered Urban Heat Island mapping using Landsat 9 satellite data &nbsp;·&nbsp; Random Forest on 1.45M pixels &nbsp;·&nbsp; 95.99% accuracy &nbsp;·&nbsp; Built as applied research for ISRO/NRSC internship portfolio</sub>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🎓 Certifications
