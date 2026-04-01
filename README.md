@@ -208,6 +208,7 @@ graph TD
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🎓 Certifications
