@@ -169,7 +169,7 @@ graph TD
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/-%F0%9F%94%AC%20QUANTUM%20COMPUTING%20%26%20OPTIMIZATION-7c3aed?style=for-the-badge&labelColor=3b0764"/>
       <br/><br/>
-      <b>National Quantum Computing Hackathon 2025 — Round 2</b><br/>
+      <b>National Quantum Computing Hackathon 2025</b><br/>
       <sub>Designed and built a QAOA-Based Cloud Resource Scheduler on Qiskit &nbsp;·&nbsp; Qualified into Round 2 of India's national quantum computing competition</sub>
     </td>
     <td align="center" width="50%">
