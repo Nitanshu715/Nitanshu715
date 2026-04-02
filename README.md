@@ -45,7 +45,7 @@ I don't build "apps for marks". I build **infrastructure that thinks, detects, a
 </p>
 
 <p align="center">
-  <img src="./ArtemisII_Launch_VirtualGuest.jpg" width="1000"/>
+  <img src="./ArtemisII_Launch_VirtualGuest.jpg" width="300"/>
 </p>
 <p align="center">
   <b>Passenger:</b> Nitanshu Tak<br/>
