@@ -45,6 +45,9 @@ I don't build "apps for marks". I build **infrastructure that thinks, detects, a
 </p>
 
 <p align="center">
+  <img src="./ArtemisII_Launch_VirtualGuest.jpg" width="1000"/>
+</p>
+<p align="center">
   <b>Passenger:</b> Nitanshu Tak<br/>
   <b>Mission:</b> Artemis II — Lunar Flyby 🌕<br/>
   <b>Launch Site:</b> Kennedy Space Center, Florida<br/>
