@@ -144,8 +144,8 @@ graph TD
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/-%F0%9F%8E%A4%20INTERNATIONAL%20RESEARCH%20%26%20PUBLICATION-0d6efd?style=for-the-badge&labelColor=082a70"/>
       <br/><br/>
-      <b>Published Author & Presenter — ICATEET 2026</b><br/>
-      <sub>Research paper "Helios: AI-Enabled Secure Cloud Infrastructure" accepted, published, and demonstrated live at an international conference with researchers and industry professionals across domains</sub>
+      <b>Author & Presenter — ICATEET 2026</b><br/>
+      <sub>Author of the Research paper "Helios: AI-Enabled Secure Cloud Infrastructure", and demonstrated live at an international conference with researchers and industry professionals across domains</sub>
     </td>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/-%E2%9A%A1%20GENAI%20SYSTEMS%20ENGINEERING-FF5722?style=for-the-badge&labelColor=7f2d00"/>
