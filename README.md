@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=600&color=58A6FF&center=true&vCenter=true&width=950&lines=Building+infrastructure+that+thinks%2C+detects%2C+and+heals.;ICATEET+2026+Conference+Presenter+%E2%80%94+Helios+Research.;Quantum+Cloud+Scheduler+%7C+QAOA+%2B+AWS+Braket.;5-Agent+AI+Healthcare+Pipeline+%7C+6+hrs+%E2%86%92+28+sec.;Custom+Linux+Distro+from+kernel+to+bootloader.;AWS+%7C+Kubernetes+%7C+AI%2FML+%7C+Security+%7C+Systems." />
 </p>
 
-<p align="center">
+<p align="center"> 
   <a href="https://www.linkedin.com/in/nitanshu-tak-89a1ba289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
   <a href="https://github.com/Nitanshu715"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
