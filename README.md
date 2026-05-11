@@ -33,7 +33,7 @@ I don't build "apps for marks". I build **infrastructure that thinks, detects, a
 
 <!-- ================= ARTEMIS BOARDING PASS ================= -->
 
-## 🚀 Artemis II — Boarding Pass
+## 🚀 Artemis II - Boarding Pass
 
 <p align="center">
   <img src="https://img.shields.io/badge/NASA%20Artemis%20II-Lunar%20Mission-0B3D91?style=for-the-badge&logo=nasa&logoColor=white"/>
@@ -49,7 +49,7 @@ I don't build "apps for marks". I build **infrastructure that thinks, detects, a
 </p>
 <p align="center">
   <b>Passenger:</b> Nitanshu Tak<br/>
-  <b>Mission:</b> Artemis II — Lunar Flyby 🌕<br/>
+  <b>Mission:</b> Artemis II - Lunar Flyby 🌕<br/>
   <b>Launch Site:</b> Kennedy Space Center, Florida<br/>
   <b>Vehicle:</b> Space Launch System (SLS) 🚀<br/>
   <b>Spacecraft:</b> Orion Crew Capsule<br/>
@@ -114,12 +114,12 @@ graph TD
 
 ## 🧠 Core Engineering Domains
 
-- **Cloud Automation & DevOps** — AWS, Kubernetes, Terraform, CI/CD, SRE
-- **AI-Based Threat Detection** — Isolation Forest, Random Forest, self-healing pipelines
-- **Quantum-Classical Hybrid Systems** — QAOA, QUBO formulation, Qiskit, AWS Braket
-- **Cybersecurity Automation** — browser-layer ML defense, phishing detection, DevSecOps
-- **Linux OS Engineering & Virtualization** — Buildroot, kernel config, QEMU, custom distros
-- **GenAI & RAG Systems** — multi-agent pipelines, FAISS retrieval, LLM grounding
+- **Cloud Automation & DevOps** - AWS, Kubernetes, Terraform, CI/CD, SRE
+- **AI-Based Threat Detection** - Isolation Forest, Random Forest, self-healing pipelines
+- **Quantum-Classical Hybrid Systems** - QAOA, QUBO formulation, Qiskit, AWS Braket
+- **Cybersecurity Automation** - browser-layer ML defense, phishing detection, DevSecOps
+- **Linux OS Engineering & Virtualization** - Buildroot, kernel config, QEMU, custom distros
+- **GenAI & RAG Systems** - multi-agent pipelines, FAISS retrieval, LLM grounding
 
 ---
 
@@ -130,13 +130,13 @@ graph TD
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/-%F0%9F%8F%85%20GLOBAL%20RANKING%20%26%20COMPETITIVE%20EXCELLENCE-6C3CE1?style=for-the-badge&labelColor=2d1f6e"/>
       <br/><br/>
-      <b>Global Top 0.21% — Unstop Competitions</b><br/>
+      <b>Global Top 0.21% - Unstop Competitions</b><br/>
       <sub>University Rank 2 &nbsp;·&nbsp; Ranked among the top performers nationally across 500,000+ student competitors</sub>
     </td>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/-%F0%9F%8C%9F%20TALENT%20AWARDS%20NOMINEE-FFD700?style=for-the-badge&labelColor=7a5c00"/>
       <br/><br/>
-      <b>Unstop Talent Awards 2026 — Nominee</b><br/>
+      <b>Unstop Talent Awards 2026 - Nominee</b><br/>
       <sub>Nominated for national recognition among India's top student builders and competition performers</sub>
     </td>
   </tr>
@@ -144,28 +144,28 @@ graph TD
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/-%F0%9F%8E%A4%20INTERNATIONAL%20RESEARCH%20%26%20PUBLICATION-0d6efd?style=for-the-badge&labelColor=082a70"/>
       <br/><br/>
-      <b>Author & Presenter — ICATEET 2026</b><br/>
+      <b>Author & Presenter - ICATEET 2026</b><br/>
       <sub>Author of the Research paper "Helios: AI-Enabled Secure Cloud Infrastructure", and demonstrated live at an international conference with researchers and industry professionals across domains</sub>
     </td>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/-%E2%9A%A1%20GENAI%20SYSTEMS%20ENGINEERING-FF5722?style=for-the-badge&labelColor=7f2d00"/>
       <br/><br/>
-      <b>ET GenAI Hackathon 2026 — Semi-Finalist</b><br/>
-      <sub>MediFlow AI — Autonomous 5-Agent Healthcare Claims Pipeline &nbsp;·&nbsp; 6 hrs → 28 sec &nbsp;·&nbsp; Qualified and ranked among top teams from thousands of national entries</sub>
+      <b>ET GenAI Hackathon 2026 - Semi-Finalist</b><br/>
+      <sub>MediFlow AI - Autonomous 5-Agent Healthcare Claims Pipeline &nbsp;·&nbsp; 6 hrs → 28 sec &nbsp;·&nbsp; Qualified and ranked among top teams from thousands of national entries</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/-%F0%9F%8C%B1%20NATIONAL%20HACKATHON%20IMPACT-2ea44f?style=for-the-badge&labelColor=14532d"/>
       <br/><br/>
-      <b>Top 100 / 7,000+ Teams — Hack For Green Bharat</b><br/>
-      <sub>Built "Navika" — RAG-Based Financial Intelligence Platform &nbsp;·&nbsp; Shortlisted nationally among 7,000+ competing teams</sub>
+      <b>Top 100 / 7,000+ Teams - Hack For Green Bharat</b><br/>
+      <sub>Built "Navika" - RAG-Based Financial Intelligence Platform &nbsp;·&nbsp; Shortlisted nationally among 7,000+ competing teams</sub>
     </td>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/-%E2%98%81%EF%B8%8F%20CLOUD%20ENGINEERING%20EXCELLENCE-4285F4?style=for-the-badge&labelColor=0b3d91"/>
       <br/><br/>
-      <b>Google Cloud Arcade 2025 — Diamond League & Trooper Tier</b><br/>
-      <sub>14,852 Points &nbsp;·&nbsp; Achieved both Diamond League and Trooper Tier (52 pts) through advanced hands-on cloud architecture labs — top-tier performance in the national cohort</sub>
+      <b>Google Cloud Arcade 2025 - Diamond League & Trooper Tier</b><br/>
+      <sub>14,852 Points &nbsp;·&nbsp; Achieved both Diamond League and Trooper Tier (52 pts) through advanced hands-on cloud architecture labs - top-tier performance in the national cohort</sub>
     </td>
   </tr>
   <tr>
@@ -178,21 +178,21 @@ graph TD
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/-%F0%9F%9B%A1%EF%B8%8F%20CYBERSECURITY%20%26%20SYSTEMS%20DEFENSE-dc2626?style=for-the-badge&labelColor=7f1d1d"/>
       <br/><br/>
-      <b>Ideathon 1.0 — Finalist (Solo)</b><br/>
-      <sub>Kevlar — ML-Powered Browser Security Suite &nbsp;·&nbsp; Reached the final round as a solo representative and pitched to industry professionals and founders</sub>
+      <b>Ideathon 1.0 - Finalist (Solo)</b><br/>
+      <sub>Kevlar - ML-Powered Browser Security Suite &nbsp;·&nbsp; Reached the final round as a solo representative and pitched to industry professionals and founders</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/-%F0%9F%92%BB%20HP%20POWER%20LAB%202.0%20%E2%80%94%20CAMPUS%20WINNER-0096D6?style=for-the-badge&labelColor=004a99"/>
       <br/><br/>
-      <b>HP Power Lab 2.0 — Campus Winner</b><br/>
+      <b>HP Power Lab 2.0 - Campus Winner</b><br/>
       <sub>Selected as campus-level winners in HP Inc.'s national innovation and technology challenge &nbsp;·&nbsp; Competed against teams across disciplines to earn the HP Power Lab recognition</sub>
     </td>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/-%F0%9F%92%AA%20HERO%20CAMPUS%20CHALLENGE%20S10%20--%20WINNER-e11d48?style=for-the-badge&labelColor=881337"/>
       <br/><br/>
-      <b>Hero Campus Challenge Season 10 — Winner</b><br/>
+      <b>Hero Campus Challenge Season 10 - Winner</b><br/>
       <sub>Declared in the winners list in the national online assessment round &nbsp;·&nbsp; Hero MotoCorp's flagship pan-India student challenge</sub>
     </td>
   </tr>
@@ -200,13 +200,13 @@ graph TD
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/-%F0%9F%9B%B0%EF%B8%8F%20SPACE%20PROGRAMME%20SELECTION-0f172a?style=for-the-badge&labelColor=1e3a5f"/>
       <br/><br/>
-      <b>NASA Artemis II — Boarding Pass Registered</b><br/>
+      <b>NASA Artemis II - Boarding Pass Registered</b><br/>
       <sub>Name registered aboard the NASA Artemis II Lunar Flyby mission &nbsp;·&nbsp; Part of a programme advancing human exploration beyond Earth</sub>
     </td>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/-%F0%9F%9B%B0%EF%B8%8F%20GEOSPATIAL%20AI%20%E2%80%94%20ISRO%20%2F%20NRSC%20PORTFOLIO-FF6B00?style=for-the-badge&labelColor=7f3300"/>
       <br/><br/>
-      <b>SuryaDrishti — ISRO / NRSC Research Portfolio</b><br/>
+      <b>SuryaDrishti - ISRO / NRSC Research Portfolio</b><br/>
       <sub>AI-powered Urban Heat Island mapping using Landsat 9 satellite data &nbsp;·&nbsp; Random Forest on 1.45M pixels &nbsp;·&nbsp; 95.99% accuracy &nbsp;·&nbsp; Built as applied research for ISRO/NRSC internship portfolio</sub>
     </td>
   </tr>
@@ -216,10 +216,10 @@ graph TD
 
 ## 🎓 Certifications
 
-- OCI DevOps Professional — Oracle
-- OCI Multicloud Architect Professional — Oracle
-- AWS Academy — Cloud Foundations · Cloud Architecting · Cloud Operations
-- AWS Cloud Practitioner — GeeksForGeeks
+- OCI DevOps Professional - Oracle
+- OCI Multicloud Architect Professional - Oracle
+- AWS Academy - Cloud Foundations · Cloud Architecting · Cloud Operations
+- AWS Cloud Practitioner - GeeksForGeeks
 
 ---
 
