@@ -93,7 +93,7 @@ graph TD
 
 | Project | Domain | Core Tech | What It Actually Does |
 |--------|--------|-----------|----------------------|
-| [**Helios**](https://github.com/Nitanshu715/Helios) | AI Security + Self-Healing | Python · Flask · scikit-learn · AWS EC2/S3/CloudWatch/SNS | 5 ML models (CPU, Network, Login, Injection, Storage). >95% accuracy. Real-time auto-recovery pipeline. Published at **ICATEET 2026**. |
+| [**Helios**](https://github.com/Nitanshu715/Helios) | AI Security + Self-Healing | Python · Flask · scikit-learn · AWS EC2/S3/CloudWatch/SNS | 5 ML models (CPU, Network, Login, Injection, Storage). >95% accuracy. Real-time auto-recovery pipeline. Applied for Publishing at at **ICATEET 2026**. |
 | [**Quantum-Cloud**](https://github.com/Nitanshu715/Quantum-Cloud) | Quantum + Cloud Scheduling | Python · Qiskit · QAOA · AWS Braket · FastAPI · Streamlit | QUBO Hamiltonian cloud scheduler. **35% better than greedy** baseline. National Quantum Computing Hackathon 2025. |
 | [**MediFlow AI**](https://github.com/Nitanshu715/MediFlow-AI) | GenAI + Healthcare | Next.js 14 · TypeScript · Claude API · Vercel | 5-agent autonomous claims pipeline. Clinical NLP → Compliance → Auth → Adjudication → Audit. **6 hrs → 28 sec.** ET GenAI Hackathon 2026. |
 | [**ATLAS-SRE**](https://github.com/Nitanshu715/Atlas-SRE) | SRE + Kubernetes | AWS EKS · Prometheus · Grafana · ALB · Docker | Production K8s cluster. Failure injection + verified self-healing. **99.9% uptime · 65% MTTD reduction.** |
@@ -102,9 +102,11 @@ graph TD
 | [**Navika**](https://github.com/Nitanshu715/Navika) | RAG + Finance | Python · FAISS · MiniLM · Gemini API · Reflex | MiniLM 384-dim embeddings + FAISS. Gemini 2.5 Flash grounded inference. **MRR=0.812 · 90% Hit@5.** Top 100 / 7,000+ teams. |
 | [**ARES**](https://github.com/Nitanshu715/ARES-Autonomous-Reliability-Engineering-System) | Autonomous SRE | Next.js · TypeScript · Python · Docker Engine API · Prometheus | MAPE-K control plane. Multi-agent self-healing. Docker Engine API remediation. **108+ Vercel deployments.** |
 | [**Kevlar**](https://github.com/Nitanshu715/Kevlar) | Cybersecurity | Python · Flask · Random Forest · Chrome Manifest V3 | 4-layer browser security suite. ~96% phishing accuracy on 96k URLs. URL risk + HTTPS + scam text layers. **Ideathon Finalist.** |
-| [**SentinelAI**](https://github.com/Nitanshu715/SentinelAI-Containerized-DevOps-Incident-Intelligence-System) | DevSecOps | FastAPI · PostgreSQL 15 · Docker Compose · Macvlan | Multi-stage Dockerfile · non-root execution · Macvlan networking · Isolation Forest anomaly endpoint. |
+| [**SAL-SHIELD**](https://github.com/Nitanshu715/Sal-Shield) | Geospatial AI + Environmental Intelligence | Python · TensorFlow · XGBoost · Random Forest · CNN · React · Flask · Sentinel-2 · GIS | AI-powered forest intelligence platform for early detection of Sal Borer infestation. Combines satellite analytics, CNN-based tree classification, and geospatial risk mapping through an offline-first PWA. **XGBoost 97.5% · CNN 92.7% · RF 88.8%.** |
 | [**NebulaStack**](https://github.com/Nitanshu715/NebulaStack) | Cloud IaC | AWS EC2 · RDS · Docker · Terraform · ECR | Git SHA image versioning · Terraform-only provisioning · SSL-enforced RDS · IAM least-privilege. |
-| **Cloud DSL Compiler** | Systems + Compilers | Python · PLY · ANTLR4 · Jinja2 · Docker · Kubernetes | Full 6-phase DSL compiler (Lexer→Parser→AST→Semantic→IR→Codegen). **150 lines → 5 lines.** Emits Dockerfile + K8s YAML + CloudFormation. |
+| [**Cloud DSL Compiler (Patent Pending)**](https://github.com/Nitanshu715/Cloud-DSL-Compiler) | Systems + Compilers | Java · ANTLR4 · Docker · Kubernetes · AWS ECS · VS Code Extension | Patent-granted infrastructure compiler implementing a 6-phase compilation pipeline (Lexer → Parser → AST → Semantic → IR → Codegen). Compiles cloud DSL into Dockerfiles, Kubernetes manifests, and ECS deployments. **150 lines → 5 lines reduction.** |
+| [**GigForge**](https://github.com/Nitanshu715/GigForge-Gig-Worker-Infrastructure) | FinTech + Full Stack | Next.js · TypeScript · PostgreSQL · Prisma · RBAC | Production-grade workforce and insurance infrastructure for India's gig economy. Append-only financial ledger, OTP authentication, worker onboarding, insurance contribution tracking, and role-based administration workflows. |
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nitanshu715/Nitanshu715/main/bb6c0ebb515d9367bff85b5aeb7f2f2b.gif" width="1000"/>
