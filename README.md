@@ -80,7 +80,7 @@ I don't build "apps for marks". I build **infrastructure that thinks, detects, a
 </p>
 
 <p align="center">
-  <img src="./nasa-roman-boarding-pass.jpg" width="1000"/>
+  <img src="boarding-pass-Nitanshu-Tak.jpeg" width="1000"/>
 </p>
 
 <p align="center">
