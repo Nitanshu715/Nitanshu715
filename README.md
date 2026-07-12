@@ -31,13 +31,27 @@ I don't build "apps for marks". I build **infrastructure that thinks, detects, a
 
 ---
 
-<!-- ================= ARTEMIS BOARDING PASS ================= -->
+<!-- ================= NASA MISSIONS ================= -->
 
-## 🚀 Artemis II - Boarding Pass
+## 🚀 NASA Mission Collection
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NASA%20Artemis%20II-Lunar%20Mission-0B3D91?style=for-the-badge&logo=nasa&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Name%20Onboard-1F8B4C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NASA-Official%20Participant-0B3D91?style=for-the-badge&logo=nasa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Space-Exploration-6F42C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Beyond-Earth-1F8B4C?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <i>Symbolic participation in two iconic NASA missions dedicated to advancing human exploration and expanding our understanding of the universe.</i>
+</p>
+
+---
+
+# 🌕 Artemis II — Lunar Flyby Mission
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mission-Artemis%20II-0B3D91?style=for-the-badge&logo=nasa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Boarding%20Pass-1F8B4C?style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -45,18 +59,50 @@ I don't build "apps for marks". I build **infrastructure that thinks, detects, a
 </p>
 
 <p align="center">
-  <img src="./ArtemisII_Launch_VirtualGuest.jpg" width="300"/>
-</p>
-<p align="center">
-  <b>Passenger:</b> Nitanshu Tak<br/>
-  <b>Mission:</b> Artemis II - Lunar Flyby 🌕<br/>
-  <b>Launch Site:</b> Kennedy Space Center, Florida<br/>
-  <b>Vehicle:</b> Space Launch System (SLS) 🚀<br/>
-  <b>Spacecraft:</b> Orion Crew Capsule<br/>
+<b>Passenger:</b> Nitanshu Tak<br/>
+<b>Mission:</b> Artemis II – Lunar Flyby 🌕<br/>
+<b>Launch Site:</b> Kennedy Space Center, Florida<br/>
+<b>Launch Vehicle:</b> Space Launch System (SLS) 🚀<br/>
+<b>Spacecraft:</b> Orion Crew Capsule
 </p>
 
 <p align="center">
-  <i>Part of a mission pushing human exploration beyond Earth.</i>
+<i>Representing the next chapter of human deep-space exploration as NASA prepares to return astronauts beyond Earth orbit.</i>
+</p>
+
+---
+
+# 🔭 Nancy Grace Roman Space Telescope
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mission-Roman%20Space%20Telescope-6F42C1?style=for-the-badge&logo=nasa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Boarding%20Pass-8A2BE2?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="./nasa-roman-boarding-pass.jpg" width="1000"/>
+</p>
+
+<p align="center">
+<b>Passenger:</b> Nitanshu Tak<br/>
+<b>Mission:</b> Nancy Grace Roman Space Telescope 🔭<br/>
+<b>Destination:</b> Sun–Earth Lagrange Point 2 (L2)<br/>
+<b>Launch Site:</b> Kennedy Space Center, Florida<br/>
+<b>Mission Focus:</b> Dark Energy • Dark Matter • Exoplanets ✨
+</p>
+
+<p align="center">
+<i>Supporting NASA's next-generation space observatory designed to uncover the mysteries of the universe.</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%8C%20Dream-Building%20Technology%20For%20The%20Future-111827?style=for-the-badge"/>
+</p>
+
+<p align="center">
+From exploring the Moon to studying the farthest reaches of the cosmos, these symbolic NASA boarding passes celebrate curiosity, innovation, and the pursuit of discoveries that shape the future of humanity.
 </p>
 
 ---
