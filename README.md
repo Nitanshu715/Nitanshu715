@@ -1,4 +1,3 @@
-<div align="center">
 <!-- Animated header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a84c,50:e8170f,100:c9a84c&height=200&section=header&text=Nitanshu%20Tak&fontSize=52&fontColor=fff&fontAlignY=35&desc=Backend%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%20%E2%80%A2%20DevOps&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 <p align="center">
