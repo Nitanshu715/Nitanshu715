@@ -1,11 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1F1F&height=230&section=header&text=Nitanshu%20Tak&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=600&color=58A6FF&center=true&vCenter=true&width=950&lines=Building+infrastructure+that+thinks%2C+detects%2C+and+heals.;ICATEET+2026+Conference+Presenter+%E2%80%94+Helios+Research.;Quantum+Cloud+Scheduler+%7C+QAOA+%2B+AWS+Braket.;5-Agent+AI+Healthcare+Pipeline+%7C+6+hrs+%E2%86%92+28+sec.;Custom+Linux+Distro+from+kernel+to+bootloader.;AWS+%7C+Kubernetes+%7C+AI%2FML+%7C+Security+%7C+Systems." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=600&color=58A6FF&center=true&vCenter=true&width=950&lines=Building+infrastructure+that+thinks%2C+detects%2C+and+heals.;ICATEET+2026+Conference+Presenter+%E2%80%94+Helios+Research.;10+Open+Source+PRs+Merged+%E2%80%94+Production+Repos+%7C+100%2B+Stars.;GSSoC+2026+%E2%80%94+Open+Source+%2B+AI%2FAgents+Track.;Quantum+Cloud+Scheduler+%7C+QAOA+%2B+AWS+Braket.;5-Agent+AI+Healthcare+Pipeline+%7C+6+hrs+%E2%86%92+28+sec.;Custom+Linux+Distro+from+kernel+to+bootloader.;AWS+%7C+Kubernetes+%7C+AI%2FML+%7C+Security+%7C+Systems." />
 </p>
-
 <p align="center"> 
   <a href="https://www.linkedin.com/in/nitanshu-tak-89a1ba289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
@@ -13,6 +11,9 @@
   &nbsp;
   <a href="mailto:nitanshutak070105@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   &nbsp;
+  <a href="https://unstop.com/u/nitantak2514"><img src="https://img.shields.io/badge/Unstop-Top%200.21%25-6C3CE1?style=for-the-badge&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://nt-matter.me"><img src="https://img.shields.io/badge/Portfolio-nt--matter.me-C9A84C?style=for-the-badge&logoColor=black"/></a>
 </p>
 
 ---
@@ -20,7 +21,6 @@
 ## ⚡ Who I Am
 
 I'm **Nitanshu**, a systems-focused engineer building:
-
 - Autonomous cloud platforms and self-healing infrastructure
 - ML-driven threat detection and anomaly engines
 - AI observability agents and multi-agent GenAI pipelines
@@ -32,7 +32,6 @@ I don't build "apps for marks". I build **infrastructure that thinks, detects, a
 ---
 
 <!-- ================= NASA MISSIONS ================= -->
-
 ## 🚀 NASA Mission Collection
 
 <p align="center">
@@ -40,7 +39,6 @@ I don't build "apps for marks". I build **infrastructure that thinks, detects, a
   <img src="https://img.shields.io/badge/Space-Exploration-6F42C1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Beyond-Earth-1F8B4C?style=for-the-badge"/>
 </p>
-
 <p align="center">
   <i>Symbolic participation in two iconic NASA missions dedicated to advancing human exploration and expanding our understanding of the universe.</i>
 </p>
@@ -53,7 +51,6 @@ I don't build "apps for marks". I build **infrastructure that thinks, detects, a
   <img src="https://img.shields.io/badge/Mission-Artemis%20II-0B3D91?style=for-the-badge&logo=nasa&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Boarding%20Pass-1F8B4C?style=for-the-badge"/>
 </p>
-
 <p align="center">
   <img src="./ArtemisII.jpg" width="1000"/>
 </p>
@@ -65,7 +62,6 @@ I don't build "apps for marks". I build **infrastructure that thinks, detects, a
 <b>Launch Vehicle:</b> Space Launch System (SLS) 🚀<br/>
 <b>Spacecraft:</b> Orion Crew Capsule
 </p>
-
 <p align="center">
 <i>Representing the next chapter of human deep-space exploration as NASA prepares to return astronauts beyond Earth orbit.</i>
 </p>
@@ -78,11 +74,9 @@ I don't build "apps for marks". I build **infrastructure that thinks, detects, a
   <img src="https://img.shields.io/badge/Mission-Roman%20Space%20Telescope-6F42C1?style=for-the-badge&logo=nasa&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Boarding%20Pass-8A2BE2?style=for-the-badge"/>
 </p>
-
 <p align="center">
   <img src="boarding-pass-Nitanshu-Tak.jpeg" width="1000"/>
 </p>
-
 <p align="center">
 <b>Passenger:</b> Nitanshu Tak<br/>
 <b>Mission:</b> Nancy Grace Roman Space Telescope 🔭<br/>
@@ -100,7 +94,6 @@ I don't build "apps for marks". I build **infrastructure that thinks, detects, a
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%8C%8C%20Dream-Building%20Technology%20For%20The%20Future-111827?style=for-the-badge"/>
 </p>
-
 <p align="center">
 From exploring the Moon to studying the farthest reaches of the cosmos, these symbolic NASA boarding passes celebrate curiosity, innovation, and the pursuit of discoveries that shape the future of humanity.
 </p>
@@ -150,13 +143,39 @@ graph TD
 | [**Kevlar**](https://github.com/Nitanshu715/Kevlar) | Cybersecurity | Python · Flask · Random Forest · Chrome Manifest V3 | 4-layer browser security suite. ~96% phishing accuracy on 96k URLs. URL risk + HTTPS + scam text layers. **Ideathon Finalist.** |
 | [**SAL-SHIELD**](https://github.com/Nitanshu715/Sal-Shield) | Geospatial AI + Environmental Intelligence | Python · TensorFlow · XGBoost · Random Forest · CNN · React · Flask · Sentinel-2 · GIS | AI-powered forest intelligence platform for early detection of Sal Borer infestation. Combines satellite analytics, CNN-based tree classification, and geospatial risk mapping through an offline-first PWA. **XGBoost 97.5% · CNN 92.7% · RF 88.8%.** |
 | [**NebulaStack**](https://github.com/Nitanshu715/NebulaStack) | Cloud IaC | AWS EC2 · RDS · Docker · Terraform · ECR | Git SHA image versioning · Terraform-only provisioning · SSL-enforced RDS · IAM least-privilege. |
+| [**Prism**](https://github.com/swaskiee/Prism-AI-Hiring-Intelligence-Platform) | AI + Hiring Intelligence | Python · Pandas · TF-IDF · TruncatedSVD · scikit-learn · HTML/JS | 5-layer hybrid candidate-ranking pipeline. 100K profiles · TF-IDF + LSA semantic scoring · Behavioral trust modeling · **76.4s runtime · 100% anomaly detection.** |
 | **Cloud DSL Compiler (Patent Pending. Hence, the repo is private)** | Systems + Compilers | Java · ANTLR4 · Docker · Kubernetes · AWS ECS · VS Code Extension | Patent-granted infrastructure compiler implementing a 6-phase compilation pipeline (Lexer → Parser → AST → Semantic → IR → Codegen). Compiles cloud DSL into Dockerfiles, Kubernetes manifests, and ECS deployments. **150 lines → 5 lines reduction.** |
 | [**GigForge**](https://github.com/Nitanshu715/GigForge-Gig-Worker-Infrastructure) | FinTech + Full Stack | Next.js · TypeScript · PostgreSQL · Prisma · RBAC | Production-grade workforce and insurance infrastructure for India's gig economy. Append-only financial ledger, OTP authentication, worker onboarding, insurance contribution tracking, and role-based administration workflows. |
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nitanshu715/Nitanshu715/main/bb6c0ebb515d9367bff85b5aeb7f2f2b.gif" width="1000"/>
 </p>
+
+---
+
+## 🔀 Open Source Contributions
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PRs%20Merged-10-2ea44f?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Repos%20Contributed-3-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSSoC%202026-Contributor%20%2F%20Mentee-FF6B35?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Combined%20Stars-100%2B-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
+</p>
+
+> **10 PRs merged** across production repositories. Every fix is a real bug — not a documentation edit, not a typo. Production issues that affected real users.
+
+| # | Repository | PR | What Was Broken · What I Fixed | Stars |
+|---|------------|-----|-------------------------------|-------|
+| 1 | [hemasriaavala/python-mini-projects](https://github.com/hemasriaavala/python-mini-projects/pull/8) | [#8](https://github.com/hemasriaavala/python-mini-projects/pull/8) | **LRU Cache O(1) Implementation** — Added complete Python LRU Cache using OrderedDict with O(1) get/put and cache eviction test cases | — |
+| 2 | [SdSarthak/AegisAI](https://github.com/SdSarthak/AegisAI/pull/1545) | [#1545](https://github.com/SdSarthak/AegisAI/pull/1545) | **Guard SDK PyPI Packaging** — Added pyproject.toml (Hatchling), optional ML deps, GitHub Actions publish workflow; unblocked `pip install aegisai-guard` | ★90+ |
+| 3 | [JhaSourav07/commitpulse](https://github.com/JhaSourav07/commitpulse/pull/8052) | [#8052](https://github.com/JhaSourav07/commitpulse/pull/8052) | **Grace Period Dead Code** — Unconditional `todayIndex = lastIndex` overwrote the grace period check every case; removed 1 line that made the entire feature useless | ★137 |
+| 4 | [JhaSourav07/commitpulse](https://github.com/JhaSourav07/commitpulse/pull/8054) | [#8054](https://github.com/JhaSourav07/commitpulse/pull/8054) | **SSR Hydration Mismatch** — `useLocalStorage` caused React 18 hydration warning in Next.js; fixed with lazy `useState` initializer, eliminating a full render cycle | ★137 |
+| 5 | [JhaSourav07/commitpulse](https://github.com/JhaSourav07/commitpulse/pull/8056) | [#8056](https://github.com/JhaSourav07/commitpulse/pull/8056) | **TTLCache Asymmetric Validation** — `cache.get("   ")` succeeded silently while `cache.set("   ")` threw; unified validation across get/has/delete | ★137 |
+| 6 | [JhaSourav07/commitpulse](https://github.com/JhaSourav07/commitpulse/pull/8058) | [#8058](https://github.com/JhaSourav07/commitpulse/pull/8058) | **useDebounce Zero-Delay Async** — `delay===0` still went through `setTimeout` making it async; documented and aligned behavior against test contract | ★137 |
+| 7 | [JhaSourav07/commitpulse](https://github.com/JhaSourav07/commitpulse/pull/8060) | [#8060](https://github.com/JhaSourav07/commitpulse/pull/8060) | **Unicode Surrogate Pair Truncation** — SVG builder used `.length` (UTF-16 units) producing malformed XML; fixed using `Array.from(text)` for correct Unicode handling | ★137 |
+| 8 | [JhaSourav07/commitpulse](https://github.com/JhaSourav07/commitpulse/pull/8062) | [#8062](https://github.com/JhaSourav07/commitpulse/pull/8062) | **parseStreakData Zero-Contribution Edge Case** — Streak counter failed to reset on zero-contribution days, producing phantom streak of 1 day in the UI | ★137 |
+| 9 | [JhaSourav07/commitpulse](https://github.com/JhaSourav07/commitpulse/pull/8064) | [#8064](https://github.com/JhaSourav07/commitpulse/pull/8064) | **formatContributionCount Locale Bug** — `toLocaleString()` without pinned locale produced comma vs period inconsistency on non-English systems, breaking downstream `parseInt()` | ★137 |
+| 10 | [JhaSourav07/commitpulse](https://github.com/JhaSourav07/commitpulse/pull/8066) | [#8066](https://github.com/JhaSourav07/commitpulse/pull/8066) | **getWeeklyAverage Division-by-Zero** — New accounts with no history returned `NaN`, silently propagating "NaN contributions/week" into the stats panel | ★137 |
 
 ---
 
@@ -190,6 +209,20 @@ graph TD
   </tr>
   <tr>
     <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-%F0%9F%94%AC%20ALGOVERSE%20AI%20RESEARCH%20%E2%80%94%20ADMITTED-7c3aed?style=for-the-badge&labelColor=3b0764"/>
+      <br/><br/>
+      <b>Algoverse AI Research Program — Admitted with Scholarship</b><br/>
+      <sub>Selected for international LLM & Applied ML Research cohort among applicants from multiple countries &nbsp;·&nbsp; Declined due to existing professional and academic commitments</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-%F0%9F%8C%BF%20GSSOC%202026%20%E2%80%94%20CONTRIBUTOR%20%2F%20MENTEE-2ea44f?style=for-the-badge&labelColor=14532d"/>
+      <br/><br/>
+      <b>GirlScript Summer of Code 2026 — Selected</b><br/>
+      <sub>Accepted into Open Source Track and AI/Agents Track &nbsp;·&nbsp; Contributing to impactful open-source projects and collaborative AI agent systems</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <img src="https://img.shields.io/badge/-%F0%9F%8E%A4%20INTERNATIONAL%20RESEARCH%20%26%20PUBLICATION-0d6efd?style=for-the-badge&labelColor=082a70"/>
       <br/><br/>
       <b>Author & Presenter - ICATEET 2026</b><br/>
@@ -213,7 +246,7 @@ graph TD
       <img src="https://img.shields.io/badge/-%E2%98%81%EF%B8%8F%20CLOUD%20ENGINEERING%20EXCELLENCE-4285F4?style=for-the-badge&labelColor=0b3d91"/>
       <br/><br/>
       <b>Google Cloud Arcade 2025 - Diamond League & Trooper Tier</b><br/>
-      <sub>14,852 Points &nbsp;·&nbsp; Achieved both Diamond League and Trooper Tier (52 pts) through advanced hands-on cloud architecture labs - top-tier performance in the national cohort</sub>
+      <sub>14,852 Points &nbsp;·&nbsp; Achieved both Diamond League and Trooper Tier through advanced hands-on cloud architecture labs - top-tier performance in the national cohort</sub>
     </td>
   </tr>
   <tr>
@@ -246,6 +279,20 @@ graph TD
   </tr>
   <tr>
     <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20OPEN%20SOURCE%20%E2%80%94%2010%20PRs%20MERGED-2ea44f?style=for-the-badge&labelColor=14532d"/>
+      <br/><br/>
+      <b>10 Pull Requests Merged — Production Repositories</b><br/>
+      <sub>Contributions to repos with 90–137 GitHub stars &nbsp;·&nbsp; AI governance SDK packaging, streak logic fixes, SSR hydration, Unicode bugs, locale bugs, NaN guards &nbsp;·&nbsp; GSSoC 2026 contributor</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-%F0%9F%8F%9B%EF%B8%8F%20LEADERSHIP%20%26%20OUTREACH%20%E2%80%94%206%20ROLES-C9A84C?style=for-the-badge&labelColor=7a5c00"/>
+      <br/><br/>
+      <b>Campus Ambassador — IIT Roorkee · IIT Delhi · IIM Indore · Internshala · LetsUpgrade</b><br/>
+      <sub>Core Technical Committee Member, UPES CSA Chapter &nbsp;·&nbsp; 6 concurrent institutional roles alongside internships and research</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <img src="https://img.shields.io/badge/-%F0%9F%9B%B0%EF%B8%8F%20SPACE%20PROGRAMME%20SELECTION-0f172a?style=for-the-badge&labelColor=1e3a5f"/>
       <br/><br/>
       <b>NASA Artemis II - Boarding Pass Registered</b><br/>
@@ -268,6 +315,7 @@ graph TD
 - OCI Multicloud Architect Professional - Oracle
 - AWS Academy - Cloud Foundations · Cloud Architecting · Cloud Operations
 - AWS Cloud Practitioner - GeeksForGeeks
+- Google Cloud Arcade 2025 — Diamond League (14,852 pts)
 
 ---
 
@@ -279,6 +327,8 @@ graph TD
   <a href="https://www.linkedin.com/in/nitanshu-tak-89a1ba289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
   <a href="mailto:nitanshutak070105@gmail.com"><img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://nt-matter.me"><img src="https://img.shields.io/badge/Portfolio-nt--matter.me-C9A84C?style=for-the-badge"/></a>
 </p>
 
 ---
@@ -286,7 +336,6 @@ graph TD
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1F1F&height=140&section=footer"/>
 </p>
-
 <p align="center">
   <b>Infrastructure whispers before collapse. I engineer the systems that listen.</b>
 </p>
