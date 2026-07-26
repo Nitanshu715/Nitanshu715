@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1F1F&height=230&section=header&text=Nitanshu%20Tak&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
-</p>
+<div align="center">
+<!-- Animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a84c,50:e8170f,100:c9a84c&height=200&section=header&text=Nitanshu%20Tak&fontSize=52&fontColor=fff&fontAlignY=35&desc=Backend%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%20%E2%80%A2%20DevOps&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=600&color=58A6FF&center=true&vCenter=true&width=950&lines=Building+infrastructure+that+thinks%2C+detects%2C+and+heals.;ICATEET+2026+Conference+Presenter+%E2%80%94+Helios+Research.;10+Open+Source+PRs+Merged+%E2%80%94+Production+Repos+%7C+100%2B+Stars.;GSSoC+2026+%E2%80%94+Open+Source+%2B+AI%2FAgents+Track.;Quantum+Cloud+Scheduler+%7C+QAOA+%2B+AWS+Braket.;5-Agent+AI+Healthcare+Pipeline+%7C+6+hrs+%E2%86%92+28+sec.;Custom+Linux+Distro+from+kernel+to+bootloader.;AWS+%7C+Kubernetes+%7C+AI%2FML+%7C+Security+%7C+Systems." />
 </p>
