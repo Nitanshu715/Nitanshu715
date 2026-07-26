@@ -1,218 +1,292 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1F1F&height=230&section=header&text=Nitanshu%20Tak&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+</p>
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a84c,50:e8170f,100:c9a84c&height=200&section=header&text=Nitanshu%20Tak&fontSize=52&fontColor=fff&fontAlignY=35&desc=Backend%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%20%E2%80%A2%20DevOps&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=600&color=58A6FF&center=true&vCenter=true&width=950&lines=Building+infrastructure+that+thinks%2C+detects%2C+and+heals.;ICATEET+2026+Conference+Presenter+%E2%80%94+Helios+Research.;Quantum+Cloud+Scheduler+%7C+QAOA+%2B+AWS+Braket.;5-Agent+AI+Healthcare+Pipeline+%7C+6+hrs+%E2%86%92+28+sec.;Custom+Linux+Distro+from+kernel+to+bootloader.;AWS+%7C+Kubernetes+%7C+AI%2FML+%7C+Security+%7C+Systems." />
+</p>
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=C9A84C&center=true&vCenter=true&multiline=false&width=700&lines=Backend+%26+Cloud+Engineer;AI+%2F+ML+Systems+Builder;DevOps+%26+SRE+Practitioner;Open+Source+Contributor+%E2%80%94+10+PRs+Merged;Conference+Presenter+%E2%80%94+ICATEET+2026;Suratec+Co.+%C3%97+SapMen+C.+%E2%80%94+Interning+Now" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Social badges row -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nitanshu--tak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitanshu-tak-89a1ba289)
-[![GitHub](https://img.shields.io/badge/GitHub-Nitanshu715-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nitanshu715)
-[![Twitter](https://img.shields.io/badge/Twitter-@realntnsu-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/realntnsu)
-[![Unstop](https://img.shields.io/badge/Unstop-Top%200.21%25-6C3CE1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQyIDAtOC0zLjU4LTgtOHMzLjU4LTggOC04IDggMy41OCA4IDgtMy41OCA4LTggOHoiLz48L3N2Zz4=&logoColor=white)](https://unstop.com/u/nitantak2514)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nt--matter.me-C9A84C?style=for-the-badge&logo=vercel&logoColor=black)](https://nt-matter.me)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Nitanshu070105-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Nitanshu070105)
-
-</div>
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/nitanshu-tak-89a1ba289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/Nitanshu715"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:nitanshutak070105@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+</p>
 
 ---
 
-## ⚡ About Me
+## ⚡ Who I Am
 
-```yaml
-name:       Nitanshu Tak
-location:   Dehradun, Uttarakhand, India
-education:  BTech CSE (Cloud Computing & Virtualization) — UPES, 4th Year | CGPA: 8.02
-status:     Interning @ Suratec Co. Ltd. (Thailand) + SapMen C. — simultaneously
-goal:       Google | Top-tier Backend / Cloud / AI Engineering roles
-rank:       Global Top 0.21% on Unstop | University Rank 2 | Nominated — Unstop Talent Awards 2026
+I'm **Nitanshu**, a systems-focused engineer building:
+
+- Autonomous cloud platforms and self-healing infrastructure
+- ML-driven threat detection and anomaly engines
+- AI observability agents and multi-agent GenAI pipelines
+- Custom Linux operating systems from kernel to bootloader
+- Quantum-classical hybrid scheduling systems
+
+I don't build "apps for marks". I build **infrastructure that thinks, detects, and heals.**
+
+---
+
+<!-- ================= NASA MISSIONS ================= -->
+
+## 🚀 NASA Mission Collection
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NASA-Official%20Participant-0B3D91?style=for-the-badge&logo=nasa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Space-Exploration-6F42C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Beyond-Earth-1F8B4C?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <i>Symbolic participation in two iconic NASA missions dedicated to advancing human exploration and expanding our understanding of the universe.</i>
+</p>
+
+---
+
+# 🌕 Artemis II — Lunar Flyby Mission
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mission-Artemis%20II-0B3D91?style=for-the-badge&logo=nasa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Boarding%20Pass-1F8B4C?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="./ArtemisII.jpg" width="1000"/>
+</p>
+
+<p align="center">
+<b>Passenger:</b> Nitanshu Tak<br/>
+<b>Mission:</b> Artemis II – Lunar Flyby 🌕<br/>
+<b>Launch Site:</b> Kennedy Space Center, Florida<br/>
+<b>Launch Vehicle:</b> Space Launch System (SLS) 🚀<br/>
+<b>Spacecraft:</b> Orion Crew Capsule
+</p>
+
+<p align="center">
+<i>Representing the next chapter of human deep-space exploration as NASA prepares to return astronauts beyond Earth orbit.</i>
+</p>
+
+---
+
+# 🔭 Nancy Grace Roman Space Telescope
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mission-Roman%20Space%20Telescope-6F42C1?style=for-the-badge&logo=nasa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Boarding%20Pass-8A2BE2?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="boarding-pass-Nitanshu-Tak.jpeg" width="1000"/>
+</p>
+
+<p align="center">
+<b>Passenger:</b> Nitanshu Tak<br/>
+<b>Mission:</b> Nancy Grace Roman Space Telescope 🔭<br/>
+<b>Destination:</b> Sun–Earth Lagrange Point 2 (L2)<br/>
+<b>Launch Site:</b> Kennedy Space Center, Florida<br/>
+<b>Mission Focus:</b> Dark Energy • Dark Matter • Exoplanets ✨
+</p>
+
+<p align="center">
+<i>Supporting NASA's next-generation space observatory designed to uncover the mysteries of the universe.</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%8C%20Dream-Building%20Technology%20For%20The%20Future-111827?style=for-the-badge"/>
+</p>
+
+<p align="center">
+From exploring the Moon to studying the farthest reaches of the cosmos, these symbolic NASA boarding passes celebrate curiosity, innovation, and the pursuit of discoveries that shape the future of humanity.
+</p>
+
+---
+
+<div align="center">
+
+```mermaid
+graph TD
+    Curiosity --> Learning
+    Learning --> SystemsThinking
+    SystemsThinking --> Build
+    Build --> Scale
+    Scale --> Impact
+    Impact --> Curiosity
 ```
 
-**I build systems that survive failure.** Backend engineer and cloud architect with deep roots in AI/ML, DevOps, and SRE. Five internships across Thailand and India, presented at an international conference, and shipping open source fixes to production repos with 100+ stars.
-
----
-
-## 🚀 Currently Working On
-
-| | |
-|---|---|
-| 🏢 **Suratec Co., Ltd. (Thailand)** | Backend & Cloud Intern — BLE sensor-video sync engine, Laravel + React Native APIs |
-| 🏢 **SapMen C.** | SDE Backend & DevOps — Next.js 14 server actions, Cloudflare R2, MongoDB workflows |
-| 🌿 **GSSoC 2026** | Open Source Contributor — Open Source + AI/Agents Track |
-| 🔬 **SAL-SHIELD** | Geospatial AI forest infestation platform targeting HILL Conference 2026 |
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Backend & Cloud**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-
-**AI / ML**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsMTAgNSAxMC01TTIgMTJsMTAgNSAxMC01Ii8+PC9zdmc+)
-![FAISS](https://img.shields.io/badge/FAISS-412991?style=flat-square&logo=meta&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
 </div>
 
 ---
 
-## 🏆 Achievements
+## ⚙️ Tech Arsenal
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,python,typescript,nextjs,flask,fastapi,postgres,mongodb,git,github,githubactions,react,cpp,java,c,bash&theme=dark" />
+</p>
 
-| | Achievement | Detail |
-|---|---|---|
-| 🌍 | **Global Top 0.21% — Unstop** | University Rank 2 · Nominated Unstop Talent Awards 2026 |
-| 🔬 | **Algoverse AI Research — Admitted** | International LLM & Applied ML Research · Declined (commitments) |
-| 🌿 | **GSSoC 2026 Contributor/Mentee** | Open Source Track + AI/Agents Track |
-| 🎤 | **Conference Presenter — ICATEET 2026** | "Helios: AI-Enabled Secure Cloud Infrastructure" · Live demo |
-| ☁️ | **Google Cloud Arcade — Diamond League** | 14,852 points · Top-tier cloud architecture labs |
-| 🏅 | **Ideathon 1.0 — Solo Finalist** | "Kevlar" browser security suite · Pitched to industry professionals |
-| 🌱 | **Hack For Green Bharat — Top 100** | Top 100 / 7,000+ teams nationally (Top 1.4%) |
-| 💻 | **HP Power Lab 2.0 — Campus Winner** | HP Inc. national innovation challenge |
-| 🏆 | **Hero Campus Challenge S10 — Winner** | Hero MotoCorp pan-India student engineering challenge |
-| ⚙️ | **OCI Certified** | Multicloud Architect Pro + DevOps Professional |
-| ☁️ | **AWS Academy** | Cloud Operations + Cloud Architecting certified |
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=500&color=3FB950&center=true&vCenter=true&width=1000&lines=AWS+EC2+%7C+EKS+%7C+S3+%7C+Lambda+%7C+CloudWatch+%7C+SNS+%7C+EventBridge+%7C+RDS+%7C+ECR+%7C+Braket;Kubernetes+%7C+Prometheus+%7C+Grafana+%7C+Terraform+%7C+Docker+Compose+%7C+GitHub+Actions+%7C+Helm;Isolation+Forest+%7C+Random+Forest+%7C+FAISS+%7C+QAOA+%7C+RAG+Pipelines+%7C+Gemini+API+%7C+Claude+API;Buildroot+%7C+Linux+Kernel+5.10+%7C+GRUB+%7C+BusyBox+%7C+QEMU+%7C+Rasterio+%7C+GDAL+%7C+Landsat+9" />
+</p>
 
 ---
 
-## 🔀 Open Source Contributions
+## 🚨 Project Highlights
 
-> **10 PRs merged** across production repositories with 100+ GitHub stars. Every fix is a real bug, not a documentation edit.
+| Project | Domain | Core Tech | What It Actually Does |
+|--------|--------|-----------|----------------------|
+| [**Helios**](https://github.com/Nitanshu715/Helios) | AI Security + Self-Healing | Python · Flask · scikit-learn · AWS EC2/S3/CloudWatch/SNS | 5 ML models (CPU, Network, Login, Injection, Storage). >95% accuracy. Real-time auto-recovery pipeline. Applied for Publishing at at **ICATEET 2026**. |
+| [**Quantum-Cloud**](https://github.com/Nitanshu715/Quantum-Cloud) | Quantum + Cloud Scheduling | Python · Qiskit · QAOA · AWS Braket · FastAPI · Streamlit | QUBO Hamiltonian cloud scheduler. **35% better than greedy** baseline. National Quantum Computing Hackathon 2025. |
+| [**MediFlow AI**](https://github.com/Nitanshu715/MediFlow-AI) | GenAI + Healthcare | Next.js 14 · TypeScript · Claude API · Vercel | 5-agent autonomous claims pipeline. Clinical NLP → Compliance → Auth → Adjudication → Audit. **6 hrs → 28 sec.** ET GenAI Hackathon 2026. |
+| [**ATLAS-SRE**](https://github.com/Nitanshu715/Atlas-SRE) | SRE + Kubernetes | AWS EKS · Prometheus · Grafana · ALB · Docker | Production K8s cluster. Failure injection + verified self-healing. **99.9% uptime · 65% MTTD reduction.** |
+| [**NitanshuOS**](https://github.com/Nitanshu715/NitanshuOS) | OS Engineering | Linux 5.10 · Buildroot · GRUB · BusyBox · QEMU · Docker | Custom Linux distro built from scratch. 5-stage automated disk pipeline. Boots on QEMU. **>60% smaller** than standard distros. |
+| [**SuryaDrishti**](https://github.com/Nitanshu715/SuryaDrishti) | Geospatial AI | Python · scikit-learn · Rasterio · GDAL · Flask · Landsat 9 | Random Forest on 1.45M satellite pixels. **95.99% accuracy · F1=0.962.** Delhi Urban Heat Island mapping. ISRO/NRSC portfolio. |
+| [**Navika**](https://github.com/Nitanshu715/Navika) | RAG + Finance | Python · FAISS · MiniLM · Gemini API · Reflex | MiniLM 384-dim embeddings + FAISS. Gemini 2.5 Flash grounded inference. **MRR=0.812 · 90% Hit@5.** Top 100 / 7,000+ teams. |
+| [**ARES**](https://github.com/Nitanshu715/ARES-Autonomous-Reliability-Engineering-System) | Autonomous SRE | Next.js · TypeScript · Python · Docker Engine API · Prometheus | MAPE-K control plane. Multi-agent self-healing. Docker Engine API remediation. **108+ Vercel deployments.** |
+| [**Kevlar**](https://github.com/Nitanshu715/Kevlar) | Cybersecurity | Python · Flask · Random Forest · Chrome Manifest V3 | 4-layer browser security suite. ~96% phishing accuracy on 96k URLs. URL risk + HTTPS + scam text layers. **Ideathon Finalist.** |
+| [**SAL-SHIELD**](https://github.com/Nitanshu715/Sal-Shield) | Geospatial AI + Environmental Intelligence | Python · TensorFlow · XGBoost · Random Forest · CNN · React · Flask · Sentinel-2 · GIS | AI-powered forest intelligence platform for early detection of Sal Borer infestation. Combines satellite analytics, CNN-based tree classification, and geospatial risk mapping through an offline-first PWA. **XGBoost 97.5% · CNN 92.7% · RF 88.8%.** |
+| [**NebulaStack**](https://github.com/Nitanshu715/NebulaStack) | Cloud IaC | AWS EC2 · RDS · Docker · Terraform · ECR | Git SHA image versioning · Terraform-only provisioning · SSL-enforced RDS · IAM least-privilege. |
+| **Cloud DSL Compiler (Patent Pending. Hence, the repo is private)** | Systems + Compilers | Java · ANTLR4 · Docker · Kubernetes · AWS ECS · VS Code Extension | Patent-granted infrastructure compiler implementing a 6-phase compilation pipeline (Lexer → Parser → AST → Semantic → IR → Codegen). Compiles cloud DSL into Dockerfiles, Kubernetes manifests, and ECS deployments. **150 lines → 5 lines reduction.** |
+| [**GigForge**](https://github.com/Nitanshu715/GigForge-Gig-Worker-Infrastructure) | FinTech + Full Stack | Next.js · TypeScript · PostgreSQL · Prisma · RBAC | Production-grade workforce and insurance infrastructure for India's gig economy. Append-only financial ledger, OTP authentication, worker onboarding, insurance contribution tracking, and role-based administration workflows. |
 
-| # | Repo | PR | Fix | Stars |
-|---|------|-----|-----|-------|
-| 1 | [hemasriaavala/python-mini-projects](https://github.com/hemasriaavala/python-mini-projects/pull/8) | #8 | LRU Cache O(1) Implementation | — |
-| 2 | [SdSarthak/AegisAI](https://github.com/SdSarthak/AegisAI/pull/1545) | #1545 | Guard SDK PyPI packaging + GitHub Actions publish workflow | ★90+ |
-| 3 | [JhaSourav07/commitpulse](https://github.com/JhaSourav07/commitpulse/pull/8052) | #8052 | Grace period dead code fix (unconditional overwrite) | ★137 |
-| 4 | [JhaSourav07/commitpulse](https://github.com/JhaSourav07/commitpulse/pull/8054) | #8054 | useLocalStorage SSR hydration mismatch (Next.js) | ★137 |
-| 5 | [JhaSourav07/commitpulse](https://github.com/JhaSourav07/commitpulse/pull/8056) | #8056 | TTLCache asymmetric key validation | ★137 |
-| 6 | [JhaSourav07/commitpulse](https://github.com/JhaSourav07/commitpulse/pull/8058) | #8058 | useDebounce zero-delay async behaviour | ★137 |
-| 7 | [JhaSourav07/commitpulse](https://github.com/JhaSourav07/commitpulse/pull/8060) | #8060 | buildInlineErrorSVG Unicode surrogate pair truncation | ★137 |
-| 8 | [JhaSourav07/commitpulse](https://github.com/JhaSourav07/commitpulse/pull/8062) | #8062 | parseStreakData zero-contribution edge case | ★137 |
-| 9 | [JhaSourav07/commitpulse](https://github.com/JhaSourav07/commitpulse/pull/8064) | #8064 | formatContributionCount locale separator bug | ★137 |
-| 10 | [JhaSourav07/commitpulse](https://github.com/JhaSourav07/commitpulse/pull/8066) | #8066 | getWeeklyAverage division-by-zero NaN guard | ★137 |
 
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-[![SAL-SHIELD](https://github-readme-stats.vercel.app/api/pin/?username=Nitanshu715&repo=Sal-Shield&theme=dark&bg_color=0d0d0d&border_color=c9a84c&title_color=c9a84c&icon_color=e8170f&text_color=c8b888)](https://github.com/Nitanshu715/Sal-Shield)
-[![Helios](https://github-readme-stats.vercel.app/api/pin/?username=Nitanshu715&repo=Helios&theme=dark&bg_color=0d0d0d&border_color=c9a84c&title_color=c9a84c&icon_color=e8170f&text_color=c8b888)](https://github.com/Nitanshu715/Helios)
-[![GigForge](https://github-readme-stats.vercel.app/api/pin/?username=Nitanshu715&repo=GigForge-Gig-Worker-Infrastructure&theme=dark&bg_color=0d0d0d&border_color=c9a84c&title_color=c9a84c&icon_color=e8170f&text_color=c8b888)](https://github.com/Nitanshu715/GigForge-Gig-Worker-Infrastructure)
-[![Prism](https://github-readme-stats.vercel.app/api/pin/?username=swaskiee&repo=Prism-AI-Hiring-Intelligence-Platform&theme=dark&bg_color=0d0d0d&border_color=c9a84c&title_color=c9a84c&icon_color=e8170f&text_color=c8b888)](https://github.com/swaskiee/Prism-AI-Hiring-Intelligence-Platform)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nitanshu715/Nitanshu715/main/bb6c0ebb515d9367bff85b5aeb7f2f2b.gif" width="1000"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Core Engineering Domains
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nitanshu715&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=c9a84c&title_color=c9a84c&icon_color=e8170f&text_color=c8b888&include_all_commits=true&count_private=true&hide_border=false" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitanshu715&layout=compact&theme=dark&bg_color=0d0d0d&border_color=c9a84c&title_color=c9a84c&text_color=c8b888&hide=html,css&langs_count=8" height="180"/>
-
-</div>
+- **Cloud Automation & DevOps** - AWS, Kubernetes, Terraform, CI/CD, SRE
+- **AI-Based Threat Detection** - Isolation Forest, Random Forest, self-healing pipelines
+- **Quantum-Classical Hybrid Systems** - QAOA, QUBO formulation, Qiskit, AWS Braket
+- **Cybersecurity Automation** - browser-layer ML defense, phishing detection, DevSecOps
+- **Linux OS Engineering & Virtualization** - Buildroot, kernel config, QEMU, custom distros
+- **GenAI & RAG Systems** - multi-agent pipelines, FAISS retrieval, LLM grounding
 
 ---
 
-## 🌌 Space Registry — NASA Mission Collection
-
-> *Symbolic mission registrations. Not achievements — just reminders that curiosity has no altitude limit.*
-
-<div align="center">
+## 🏆 Achievements & Recognition
 
 <table>
-<tr>
-<td align="center" width="50%">
-
-**🌕 Artemis II — Lunar Flyby**
-
-<img src="https://raw.githubusercontent.com/Nitanshu715/Nitanshu715/main/artemis.jpg" width="100%" style="border-radius:8px"/>
-
-`Passenger: Nitanshu Tak`
-`Ticket: M2M2026238900AII`
-`Rocket: SLS · Spacecraft: Orion`
-`Destination: Around the Moon`
-`Mileage: 685,000 miles`
-
-</td>
-<td align="center" width="50%">
-
-**🔭 Nancy Grace Roman Space Telescope**
-
-<img src="https://raw.githubusercontent.com/Nitanshu715/Nitanshu715/main/roman.jpg" width="100%" style="border-radius:8px"/>
-
-`Passenger: Nitanshu Tak`
-`Ticket: C07A06S12P10C07S10P01J07`
-`Destination: Sun–Earth L2`
-`Focus: Dark Energy · Exoplanets`
-`Mileage: 1,000,000 miles`
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-%F0%9F%8F%85%20GLOBAL%20RANKING%20%26%20COMPETITIVE%20EXCELLENCE-6C3CE1?style=for-the-badge&labelColor=2d1f6e"/>
+      <br/><br/>
+      <b>Global Top 0.21% - Unstop Competitions</b><br/>
+      <sub>University Rank 2 &nbsp;·&nbsp; Ranked among the top performers nationally across 500,000+ student competitors</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-%F0%9F%8C%9F%20TALENT%20AWARDS%20NOMINEE-FFD700?style=for-the-badge&labelColor=7a5c00"/>
+      <br/><br/>
+      <b>Unstop Talent Awards 2026 - Nominee</b><br/>
+      <sub>Nominated for national recognition among India's top student builders and competition performers</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-%F0%9F%8E%A4%20INTERNATIONAL%20RESEARCH%20%26%20PUBLICATION-0d6efd?style=for-the-badge&labelColor=082a70"/>
+      <br/><br/>
+      <b>Author & Presenter - ICATEET 2026</b><br/>
+      <sub>Author of the Research paper "Helios: AI-Enabled Secure Cloud Infrastructure", and demonstrated live at an international conference with researchers and industry professionals across domains</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-%E2%9A%A1%20GENAI%20SYSTEMS%20ENGINEERING-FF5722?style=for-the-badge&labelColor=7f2d00"/>
+      <br/><br/>
+      <b>ET GenAI Hackathon 2026 - Semi-Finalist</b><br/>
+      <sub>MediFlow AI - Autonomous 5-Agent Healthcare Claims Pipeline &nbsp;·&nbsp; 6 hrs → 28 sec &nbsp;·&nbsp; Qualified and ranked among top teams from thousands of national entries</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-%F0%9F%8C%B1%20NATIONAL%20HACKATHON%20IMPACT-2ea44f?style=for-the-badge&labelColor=14532d"/>
+      <br/><br/>
+      <b>Top 100 / 7,000+ Teams - Hack For Green Bharat</b><br/>
+      <sub>Built "Navika" - RAG-Based Financial Intelligence Platform &nbsp;·&nbsp; Shortlisted nationally among 7,000+ competing teams</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-%E2%98%81%EF%B8%8F%20CLOUD%20ENGINEERING%20EXCELLENCE-4285F4?style=for-the-badge&labelColor=0b3d91"/>
+      <br/><br/>
+      <b>Google Cloud Arcade 2025 - Diamond League & Trooper Tier</b><br/>
+      <sub>14,852 Points &nbsp;·&nbsp; Achieved both Diamond League and Trooper Tier (52 pts) through advanced hands-on cloud architecture labs - top-tier performance in the national cohort</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-%F0%9F%94%AC%20QUANTUM%20COMPUTING%20%26%20OPTIMIZATION-7c3aed?style=for-the-badge&labelColor=3b0764"/>
+      <br/><br/>
+      <b>National Quantum Computing Hackathon 2025</b><br/>
+      <sub>Designed and built a QAOA-Based Cloud Resource Scheduler on Qiskit &nbsp;·&nbsp; Qualified into Round 2 of India's national quantum computing competition</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-%F0%9F%9B%A1%EF%B8%8F%20CYBERSECURITY%20%26%20SYSTEMS%20DEFENSE-dc2626?style=for-the-badge&labelColor=7f1d1d"/>
+      <br/><br/>
+      <b>Ideathon 1.0 - Finalist (Solo)</b><br/>
+      <sub>Kevlar - ML-Powered Browser Security Suite &nbsp;·&nbsp; Reached the final round as a solo representative and pitched to industry professionals and founders</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-%F0%9F%92%BB%20HP%20POWER%20LAB%202.0%20%E2%80%94%20CAMPUS%20WINNER-0096D6?style=for-the-badge&labelColor=004a99"/>
+      <br/><br/>
+      <b>HP Power Lab 2.0 - Campus Winner</b><br/>
+      <sub>Selected as campus-level winners in HP Inc.'s national innovation and technology challenge &nbsp;·&nbsp; Competed against teams across disciplines to earn the HP Power Lab recognition</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-%F0%9F%92%AA%20HERO%20CAMPUS%20CHALLENGE%20S10%20--%20WINNER-e11d48?style=for-the-badge&labelColor=881337"/>
+      <br/><br/>
+      <b>Hero Campus Challenge Season 10 - Winner</b><br/>
+      <sub>Declared in the winners list in the national online assessment round &nbsp;·&nbsp; Hero MotoCorp's flagship pan-India student challenge</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-%F0%9F%9B%B0%EF%B8%8F%20SPACE%20PROGRAMME%20SELECTION-0f172a?style=for-the-badge&labelColor=1e3a5f"/>
+      <br/><br/>
+      <b>NASA Artemis II - Boarding Pass Registered</b><br/>
+      <sub>Name registered aboard the NASA Artemis II Lunar Flyby mission &nbsp;·&nbsp; Part of a programme advancing human exploration beyond Earth</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-%F0%9F%9B%B0%EF%B8%8F%20GEOSPATIAL%20AI%20%E2%80%94%20ISRO%20%2F%20NRSC%20PORTFOLIO-FF6B00?style=for-the-badge&labelColor=7f3300"/>
+      <br/><br/>
+      <b>SuryaDrishti - ISRO / NRSC Research Portfolio</b><br/>
+      <sub>AI-powered Urban Heat Island mapping using Landsat 9 satellite data &nbsp;·&nbsp; Random Forest on 1.45M pixels &nbsp;·&nbsp; 95.99% accuracy &nbsp;·&nbsp; Built as applied research for ISRO/NRSC internship portfolio</sub>
+    </td>
+  </tr>
 </table>
-
-> *From the Moon to the edge of the observable universe — exploring in every direction.*
-
-</div>
 
 ---
 
-## 🤝 Connect
+## 🎓 Certifications
 
-<div align="center">
+- OCI DevOps Professional - Oracle
+- OCI Multicloud Architect Professional - Oracle
+- AWS Academy - Cloud Foundations · Cloud Architecting · Cloud Operations
+- AWS Cloud Practitioner - GeeksForGeeks
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nitanshu-tak-89a1ba289)
-[![Email](https://img.shields.io/badge/Send_Mail-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitanshutak070105@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-nt--matter.me-C9A84C?style=for-the-badge)](https://nt-matter.me)
-[![Google Dev](https://img.shields.io/badge/Google_Dev-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/nitanshutak)
+---
 
-</div>
+## 🌐 Connect
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Nitanshu715"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/nitanshu-tak-89a1ba289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:nitanshutak070105@gmail.com"><img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a84c,50:e8170f,100:c9a84c&height=100&section=footer&animation=fadeIn" width="100%"/>
+---
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1F1F&height=140&section=footer"/>
+</p>
+
+<p align="center">
+  <b>Infrastructure whispers before collapse. I engineer the systems that listen.</b>
+</p>
