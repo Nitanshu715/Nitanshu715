@@ -160,7 +160,6 @@ graph TD
   <img src="https://img.shields.io/badge/GSSoC%202026-Contributor%20%2F%20Mentee-FF6B35?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Combined%20Stars-100%2B-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
 </p>
----
 
 **10 merged pull requests across 4 repositories.** Every one is a real, verified bug fix or feature — not a documentation edit, not a typo fix, not a README tweak. Each entry below links directly to the actual merged PR on GitHub.
 
