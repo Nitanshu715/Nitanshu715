@@ -161,15 +161,7 @@ graph TD
   <img src="https://img.shields.io/badge/Combined%20Stars-100%2B-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
 </p>
 
-**10 merged pull requests across 4 repositories.** Every one is a real, verified bug fix or feature — not a documentation edit, not a typo fix, not a README tweak. Each entry below links directly to the actual merged PR on GitHub.
-
-| Metric | Value |
-|---|---|
-| Merged PRs | 10 |
-| Repositories | 4 |
-| Highest-star repo contributed to | CodeGraphContext — 3,900+ stars, MCP server used by AI coding assistants (Claude, Cursor) |
-| Program | GSSoC 2026 — AI Track, Contributor Mentee |
-| Languages | Python, TypeScript |
+**10 merged pull requests across 4 repositories.** Every one is a real, verified bug fix or feature - not a documentation edit, not a typo fix, not a README tweak. Each entry below links directly to the actual merged PR on GitHub.
 
 ---
 
