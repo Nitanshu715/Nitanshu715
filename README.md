@@ -162,8 +162,6 @@ graph TD
 </p>
 ---
 
-## Summary
-
 **10 merged pull requests across 4 repositories.** Every one is a real, verified bug fix or feature — not a documentation edit, not a typo fix, not a README tweak. Each entry below links directly to the actual merged PR on GitHub.
 
 | Metric | Value |
