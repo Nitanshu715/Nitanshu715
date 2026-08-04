@@ -161,7 +161,6 @@ graph TD
   <img src="https://img.shields.io/badge/Combined%20Stars-100%2B-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
 </p>
 
-# Open Source Journey — Nitanshu Tak
 GSSoC 2026 · AI Track · Contributor Mentee
 
 ---
@@ -194,66 +193,6 @@ GSSoC 2026 · AI Track · Contributor Mentee
 | 8 | [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) | [#1359](https://github.com/CodeGraphContext/CodeGraphContext/pull/1359) | **`critical_logger()` — Complete Log Level Coverage** — `debug_log.py` defined `CRITICAL` in `LOG_LEVELS` but had no matching logger function; added it, matching the existing `info_logger`/`warning_logger`/`error_logger` pattern exactly, plus 6 unit tests | ★3,900+ |
 | 9 | [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) | [#1360](https://github.com/CodeGraphContext/CodeGraphContext/pull/1360) | **`visualize_graph.py` — HTML Graph Renderer (built from scratch)** — Implemented a 607-line, zero-dependency force-directed graph visualizer (dark mode, hover tooltips, directed-edge arrows, auto-legend) plus 23 unit tests | ★3,900+ |
 | 10 | [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) | [#1361](https://github.com/CodeGraphContext/CodeGraphContext/pull/1361) | **Missing `self` Parameter Across 13 Toolkits** — Every placeholder language toolkit's `get_cypher_query()` was missing `self`, causing a `TypeError` instead of the intended `NotImplementedError`; fixed identically across all 13 files, plus 31 parametrized tests | ★3,900+ |
-
----
-
-## Detailed Breakdown
-
-### 1 · python-mini-projects — LRU Cache Implementation
-**PR [#8](https://github.com/hemasriaavala/python-mini-projects/pull/8)** · Merged October 31, 2025
-
-Implemented a complete `LRUCache` class in Python using `collections.OrderedDict`, giving O(1) time complexity for both `get()` and `put()`. `OrderedDict.move_to_end()` marks an item as most recently used, and `OrderedDict.popitem(last=False)` evicts the least recently used item in constant time when the cache exceeds capacity. Included eviction-behavior test cases. LRU Cache is a classic FAANG interview data structure question — this is the same core logic, shipped as a real merged contribution.
-
-### 2 · AegisAI — Guard SDK PyPI Packaging
-**PR [#1545](https://github.com/SdSarthak/AegisAI/pull/1545)** · Merged July 17, 2026
-
-AegisAI is an open-source AI Governance, Risk & Compliance platform built for the EU AI Act, with a `guard-sdk/` module for LLM prompt-injection detection. The SDK existed as source code but had zero packaging: no `pyproject.toml`, no build backend, no publish pipeline — the README even documented `pip install aegisai-guard`, a command that didn't actually work. Added a full `pyproject.toml` (Hatchling build backend, optional `[ml]` extras for PyTorch/Transformers so lightweight users don't pull heavy dependencies) and a GitHub Actions workflow that builds and publishes to PyPI automatically on a version tag push. After maintainer review (three small follow-up fixes — stray notes in the README, missing trailing newlines), the PR was merged and `pip install aegisai-guard` became real.
-
-### 3 · CommitPulse — Grace Period Dead Code Fix
-**PR [#8052](https://github.com/JhaSourav07/commitpulse/pull/8052)** · Merged July 17, 2026
-
-CommitPulse tracks GitHub contribution streaks and renders them as SVG badges. Its "grace period" feature was supposed to forgive a small gap in contributions before breaking a streak, but `lib/calculate.ts` had a bug: the `if/else` block correctly computed whether to break the streak, but an unconditional `todayIndex = lastIndex` on the very next line silently overwrote that result *every single time*, regardless of outcome. The grace period existed in code but had zero effect. Removed the one dead line. My first attempted fix was actually wrong — it broke 14 of 304 unit tests — and those failures were what led me to the correct line.
-
-### 4 · CommitPulse — useLocalStorage SSR Hydration Fix
-**PR [#8054](https://github.com/JhaSourav07/commitpulse/pull/8054)** · Merged July 17, 2026
-
-Next.js server-renders HTML, then "hydrates" it by attaching React's client-side logic — this requires the server-rendered and client-rendered output to match exactly. `useLocalStorage` initialized React state with a default value, then used a `useEffect` to re-sync from the browser's `localStorage` *after* the first render — causing two renders instead of one, and a hydration mismatch warning if the stored value differed from the default. Fixed by using a **lazy `useState` initializer** — `useState(() => readFromStorage(key, initialValue))` — so the correct value is read once, on mount, respecting the existing server-side guard (`typeof window === 'undefined'`).
-
-### 5 · CommitPulse — TTLCache Key Validation Consistency
-**PR [#8056](https://github.com/JhaSourav07/commitpulse/pull/8056)** · Merged July 17, 2026
-
-`lib/cache.ts`'s TTL cache had a private `assertValidKey()` helper for consistent validation, but it was commented out in `get()` and `has()` and replaced with weaker inline checks missing the whitespace-key guard that `set()` still had. Result: `cache.set("   ", value, ttl)` correctly threw a `TypeError`, but `cache.get("   ")` silently returned `null` — an asymmetric API that produces silent cache misses, one of the hardest bug classes to diagnose in production because nothing ever throws. Unified the validation logic across `get()`, `has()`, and `delete()`.
-
-### 6 · CommitPulse — useDebounce Zero-Delay Behavior
-**PR [#8058](https://github.com/JhaSourav07/commitpulse/pull/8058)** · Merged July 17, 2026
-
-`useDebounce` always wrapped value updates in `setTimeout`, even at `delay === 0`. My first instinct was to treat this as a bug and make `delay === 0` a synchronous pass-through — but that broke an existing test that explicitly documented: *"Even with a zero delay, the resolution is queued via setTimeout and only fires after the timer loop advances."* This was the maintainer's intended contract, not a bug. Reverted the behavioral change, respected the documented contract, and clarified the surrounding code comments. The lesson this PR taught: in open source, the existing test suite *is* the spec — sometimes the right contribution is understanding, not changing.
-
-### 7 · CommitPulse — Unicode Surrogate Pair Truncation Fix
-**PR [#8060](https://github.com/JhaSourav07/commitpulse/pull/8060)** · Merged July 17, 2026
-
-`buildInlineErrorSVG()` truncated failed-API-call error messages using `String.prototype.length` and `.slice()` — both of which count UTF-16 code units, not visible characters. Emoji and many CJK characters are "surrogate pairs" (2 code units each), so a 48-character limit actually cut emoji-heavy text at 24 visible characters, and `.slice()` could split a surrogate pair mid-character, producing invalid Unicode that corrupted the SVG's XML output. Fixed with `Array.from(text)`, which iterates by Unicode code point rather than UTF-16 unit, guaranteeing surrogate pairs are never split — important given CommitPulse's international user base.
-
-### 8 · CodeGraphContext — critical_logger() for Complete Log Level Coverage
-**PR [#1359](https://github.com/CodeGraphContext/CodeGraphContext/pull/1359)** · Closes issue #1232
-
-CodeGraphContext is an MCP (Model Context Protocol) server — 3,900+ GitHub stars, ~31k PyPI downloads/month — that builds a queryable graph of a codebase for AI coding assistants like Claude and Cursor. `utils/debug_log.py` defined five log levels including `CRITICAL`, and shipped `info_logger()`, `warning_logger()`, `error_logger()`, and `debug_logger()` — but `critical_logger()`, the function for the most severe level, simply didn't exist. Added it, following the exact existing pattern (`_should_log("CRITICAL")` guard, then `logger.critical(msg)`), plus 6 unit tests covering the happy path, the suppression path, and consistency with the other logger functions.
-
-### 9 · CodeGraphContext — visualize_graph.py: HTML Graph Renderer
-**PR [#1360](https://github.com/CodeGraphContext/CodeGraphContext/pull/1360)** · Closes issue #1229 · **+607 lines**
-
-`utils/visualize_graph.py` existed in the repo but was completely empty — just a module comment. Implemented the entire feature from scratch: a zero-external-dependency HTML graph visualizer using a **force-directed layout** (a physics simulation where nodes repel each other and edges act as springs, run for 200 frames until the layout settles). The API is composable: `node_color()`/`edge_color()` for consistent theming, `build_graph_data()` to convert raw graph-query results into a JSON-serializable structure, `render_html()` for the actual canvas-based renderer (dark mode, hover tooltips showing file/line, directional arrowheads, auto-generated legend, 16-char label truncation), and `open_in_browser()`/`save_graph_html()` as convenience wrappers. Zero dependencies was a deliberate choice — CGC runs inside sandboxed AI-assistant environments where a CDN-hosted charting library could silently fail. Added 23 unit tests.
-
-### 10 · CodeGraphContext — Missing self Parameter Across 13 Toolkits
-**PR [#1361](https://github.com/CodeGraphContext/CodeGraphContext/pull/1361)** · Closes issue #1281 · **+88 / −20 lines, 14 files**
-
-Every placeholder language toolkit (for languages without a full parser yet) defined `get_cypher_query(query: str)` **without** `self`. Since Python automatically passes the instance as the first argument to any instance method call (`self.toolkit.get_cypher_query(label)` is really `get_cypher_query(toolkit_instance, label)` under the hood), every one of these 13 classes crashed with `TypeError: get_cypher_query() takes 1 positional argument but 2 were given` instead of raising the intended, clear `NotImplementedError`. Because `JavaToolkit` (the one fully-implemented language) already had the correct signature, this bug was invisible unless you specifically exercised one of the other 13 language paths. Fixed the signature identically across all 13 files (`c_toolkit.py`, `python_toolkit.py`, `go_toolkit.py`, `rust_toolkit.py`, `ruby_toolkit.py`, `typescript_toolkit.py`, `javascript_toolkit.py`, `csharp_toolkit.py`, `dart_toolkit.py`, `perl_toolkit.py`, `haskell_toolkit.py`, `scala_toolkit.py`, `swift_toolkit.py`), leaving the already-correct `JavaToolkit`, `CppToolkit`, and `ElispToolkit` untouched. Added 31 parametrized tests running the same 4 checks against every toolkit in the registry — so a future placeholder toolkit with the same mistake gets caught automatically.
-
----
-
-## Technical Areas Covered
-
-`Python` · `TypeScript` · `React` · `Next.js (SSR)` · `React Hooks` · `PyPI Packaging` · `GitHub Actions / CI-CD` · `MCP (Model Context Protocol)` · `Graph Databases / Cypher` · `Force-Directed Graph Layouts` · `Unicode / UTF-16` · `LRU & TTL Caching` · `SVG Generation` · `Parametrized Testing` · `FastAPI` · `EU AI Act Compliance / LLM Guard`
 
 ---
 
