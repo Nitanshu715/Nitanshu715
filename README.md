@@ -160,9 +160,6 @@ graph TD
   <img src="https://img.shields.io/badge/GSSoC%202026-Contributor%20%2F%20Mentee-FF6B35?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Combined%20Stars-100%2B-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
 </p>
-
-GSSoC 2026 · AI Track · Contributor Mentee
-
 ---
 
 ## Summary
