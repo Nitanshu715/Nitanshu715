@@ -81,32 +81,40 @@ graph LR
 
 <div align="center">
 
+<!-- APEX: CORE EMBLEM & 3D HELIX TERMINAL LAUNCHER -->
+<a href="https://nt-matter.me" target="_blank">
+  <img src="./Logo.png" width="140" height="140" alt="NT-MATTER Logo Core"/>
+</a>
+
+<br/>
+
+<a href="https://nt-matter.me" target="_blank">
+  <img src="https://img.shields.io/badge/NT--MATTER%20CORE-EXPLORE%2054--CREDENTIAL%20HELIX%20TERMINAL-C9A84C?style=for-the-badge&logoColor=black&labelColor=1a1610"/>
+</a>
+
+<br/><br/>
+
+<!-- TIER 01 (ARCHITECT & DEVOPS PINNACLE) -->
 <p align="center">
   <img src="https://img.shields.io/badge/ORACLE%20CLOUD-OCI%20DEVOPS%20PROFESSIONAL-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=2b0000"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/ORACLE%20CLOUD-MULTICLOUD%20ARCHITECT-C74634?style=for-the-badge&logo=oracle&logoColor=white&labelColor=2b0000"/>
-  &nbsp;
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ORACLE%20CLOUD-MULTICLOUD%20ARCHITECT%20PROFESSIONAL-C74634?style=for-the-badge&logo=oracle&logoColor=white&labelColor=2b0000"/>
+</p>
+
+<!-- TIER 02 (ADVANCED CLOUD INFRASTRUCTURE & HYPERSCALERS) -->
+<p align="center">
   <img src="https://img.shields.io/badge/AWS%20ACADEMY-CLOUD%20ARCHITECTING-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=331a00"/>
-</p>
-
-<p align="center">
-  <a href="https://nt-matter.me" target="_blank">
-    <img src="./Logo.png" width="175" height="175" alt="NT-MATTER Logo Core"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://nt-matter.me" target="_blank">
-    <img src="https://img.shields.io/badge/NT--MATTER%20CORE-EXPLORE%2054--CREDENTIAL%20HELIX%20TERMINAL-C9A84C?style=for-the-badge&logoColor=black&labelColor=1a1610"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS%20ACADEMY-CLOUD%20OPERATIONS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=331a00"/>
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GOOGLE%20CLOUD-ARCADE%20DIAMOND%20(14%2C852%20PTS)-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0a1e3f"/>
-  &nbsp;
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AWS%20ACADEMY-CLOUD%20OPERATIONS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=331a00"/>
+</p>
+
+<!-- TIER 03 (FOUNDATIONAL SYSTEMS & PRACTITIONER TIERS) -->
+<p align="center">
   <img src="https://img.shields.io/badge/AWS%20ACADEMY-CLOUD%20FOUNDATIONS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=331a00"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GFG-AWS%20CLOUD%20PRACTITIONER-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0d381e"/>
 </p>
 
 </div>
