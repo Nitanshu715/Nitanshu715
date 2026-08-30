@@ -22,7 +22,7 @@
 
 ---
 
-### 01. OPERATOR MANIFESTO
+### 1. OPERATOR MANIFESTO
 
 ```ini
 [OPERATOR]        Nitanshu Tak
@@ -65,7 +65,7 @@ graph LR
 
 ---
 
-### 02. SYSTEM TECH ARSENAL
+### 2. SYSTEM TECH ARSENAL
 
 <div align="center">
 
@@ -77,7 +77,7 @@ graph LR
 
 ---
 
-### 03. VERIFIED CREDENTIALS & CERTIFICATION CORE
+### 3. VERIFIED CREDENTIALS & CERTIFICATION CORE
 
 <div align="center">
 
@@ -123,7 +123,7 @@ graph LR
 
 ---
 
-### 04. PRODUCTION REPOSITORIES & ENGINEERING HIGHLIGHTS
+### 4. PRODUCTION REPOSITORIES & ENGINEERING HIGHLIGHTS
 
 | Repository | Domain | Core Tech | What It Actually Does |
 |:---|:---|:---|:---|
@@ -148,7 +148,7 @@ graph LR
 
 ---
 
-### 05. OPEN SOURCE CONTRIBUTIONS · PRODUCTION REPOSITORIES
+### 5. OPEN SOURCE CONTRIBUTIONS · PRODUCTION REPOSITORIES
 
 <div align="center">
 
@@ -179,7 +179,7 @@ graph LR
 
 ---
 
-### 06. AWARDS, HONORS & COMPETITIVE EXCELLENCE
+### 6. AWARDS, HONORS & COMPETITIVE EXCELLENCE
 
 <table>
   <tr>
@@ -270,7 +270,7 @@ graph LR
 
 ---
 
-### 07. NASA MISSION REGISTRY & SPACE COLLECTIBLES
+### 7. NASA MISSION REGISTRY & SPACE COLLECTIBLES
 
 <div align="center">
 
