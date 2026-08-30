@@ -4,9 +4,9 @@
 <!--        NITANSHU TAK · SYSTEMS & DISTRIBUTED CLOUD ARCHITECT         -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,25:8a6a1f,50:c9a84c,75:9e120b,100:0a0e17&height=240&section=header&text=NITANSHU%20TAK&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=SYSTEMS%20%E2%80%A2%20DISTRIBUTED%20CLOUD%20%E2%80%A2%20AUTONOMOUS%20AI%20%E2%80%A2%20DEVOPS&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,25:8a6a1f,50:c9a84c,75:9e120b,100:0a0e17&height=250&section=header&text=NITANSHU%20TAK&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=SYSTEMS%20%E2%80%A2%20DISTRIBUTED%20CLOUD%20%E2%80%A2%20AUTONOMOUS%20AI%20%E2%80%A2%20DEVOPS&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&pause=800&color=C9A84C&center=true&vCenter=true&width=1000&lines=Building+infrastructure+that+thinks%2C+detects%2C+and+self-heals.;ICATEET+2026+Conference+Author+%26+Presenter+%E2%80%94+Helios+Research.;10+Production+Open+Source+PRs+Merged+%7C+100%2B+Combined+Stars.;GSSoC+2026+Contributor+%E2%80%94+Open+Source+%2B+AI%2FAgents+Track.;Quantum-Classical+Cloud+Scheduler+%7C+QAOA+%2B+AWS+Braket.;Autonomous+5-Agent+Healthcare+Pipeline+%7C+6+Hours+%E2%86%92+28+Seconds.;Custom+Linux+Operating+System+Engineered+from+Kernel+to+Bootloader.;OCI+Multicloud+Architect+%26+DevOps+Certified+%7C+AWS+Academy+%7C+GCP+Diamond." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=800&color=C9A84C&center=true&vCenter=true&width=1000&lines=Building+infrastructure+that+thinks%2C+detects%2C+and+self-heals.;ICATEET+2026+Conference+Author+%26+Presenter+%E2%80%94+Helios+Research.;10+Production+Open+Source+PRs+Merged+%7C+100%2B+Combined+Stars.;GSSoC+2026+Contributor+%E2%80%94+Open+Source+%2B+AI%2FAgents+Track.;Quantum-Classical+Cloud+Scheduler+%7C+QAOA+%2B+AWS+Braket.;Autonomous+5-Agent+Healthcare+Pipeline+%7C+6+Hours+%E2%86%92+28+Seconds.;Custom+Linux+Operating+System+Engineered+from+Kernel+to+Bootloader.;OCI+Multicloud+Architect+%26+DevOps+Certified+%7C+AWS+Academy+%7C+GCP+Diamond." />
 
 <a href="https://nt-matter.me"><img src="https://img.shields.io/badge/PORTFOLIO-nt--matter.me-C9A84C?style=for-the-badge&logoColor=000000&labelColor=1a1610"/></a>
 &nbsp;
@@ -22,7 +22,7 @@
 
 ---
 
-### // 01. OPERATOR MANIFESTO & TELEMETRY
+### // 01. OPERATOR MANIFESTO
 
 ```ini
 [OPERATOR]        Nitanshu Tak
@@ -77,52 +77,37 @@ graph LR
 
 ---
 
-### // 03. CERTIFICATION ORBITAL REACTOR CORE
+### // 03. VERIFIED CREDENTIALS & CERTIFICATION CORE
 
 <div align="center">
 
-<table border="0" style="border:none; background:transparent;">
-  <tr>
-    <td align="center" width="30%">
-      <img src="https://img.shields.io/badge/ORACLE%20CLOUD-OCI%20DEVOPS%20PROFESSIONAL-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=2b0000"/><br/>
-      <sub><b>Automated CI/CD · OKE · IaC · SRE Automation</b></sub>
-    </td>
-    <td align="center" width="40%">
-      <img src="https://img.shields.io/badge/ORACLE%20CLOUD-MULTICLOUD%20ARCHITECT-C74634?style=for-the-badge&logo=oracle&logoColor=white&labelColor=2b0000"/><br/>
-      <sub><b>Multi-Cloud Topology · HA Architecture · Zero-Trust</b></sub>
-    </td>
-    <td align="center" width="30%">
-      <img src="https://img.shields.io/badge/AWS%20ACADEMY-CLOUD%20ARCHITECTING-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=331a00"/><br/>
-      <sub><b>Distributed Solutions · Serverless · Resilient VPC</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-      <!-- ── CENTRAL LOGO EMBLEM (LINKS TO NT-MATTER.ME) ── -->
-      <a href="https://nt-matter.me" target="_blank">
-        <img src="./Logo.png" width="115" height="115" alt="NT-MATTER Logo Core"/>
-      </a><br/>
-      <a href="https://nt-matter.me" target="_blank">
-        <img src="https://img.shields.io/badge/NT--MATTER%20CORE-INTERACTIVE%2054--NODE%20HELIX%20TERMINAL-C9A84C?style=for-the-badge&logoColor=black&labelColor=1a1610"/>
-      </a><br/>
-      <sub><i>Click center emblem to inspect all 54 live verified credentials in 3D</i></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="30%">
-      <img src="https://img.shields.io/badge/AWS%20ACADEMY-CLOUD%20OPERATIONS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=331a00"/><br/>
-      <sub><b>SysOps · SRE Observability · Telemetry</b></sub>
-    </td>
-    <td align="center" width="40%">
-      <img src="https://img.shields.io/badge/GOOGLE%20CLOUD-ARCADE%20DIAMOND%20(14%2C852%20PTS)-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0a1e3f"/><br/>
-      <sub><b>Diamond League & Trooper Tier · Top Percentile Execution</b></sub>
-    </td>
-    <td align="center" width="30%">
-      <img src="https://img.shields.io/badge/AWS%20ACADEMY-CLOUD%20FOUNDATIONS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=331a00"/><br/>
-      <sub><b>Core Cloud Systems · IAM · Storage & Compute</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/ORACLE%20CLOUD-OCI%20DEVOPS%20PROFESSIONAL-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=2b0000"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ORACLE%20CLOUD-MULTICLOUD%20ARCHITECT-C74634?style=for-the-badge&logo=oracle&logoColor=white&labelColor=2b0000"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AWS%20ACADEMY-CLOUD%20ARCHITECTING-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=331a00"/>
+</p>
+
+<p align="center">
+  <a href="https://nt-matter.me" target="_blank">
+    <img src="./Logo.png" width="135" height="135" alt="NT-MATTER Logo Core"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://nt-matter.me" target="_blank">
+    <img src="https://img.shields.io/badge/NT--MATTER%20CORE-EXPLORE%2054--CREDENTIAL%20HELIX%20TERMINAL-C9A84C?style=for-the-badge&logoColor=black&labelColor=1a1610"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20ACADEMY-CLOUD%20OPERATIONS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=331a00"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/GOOGLE%20CLOUD-ARCADE%20DIAMOND%20(14%2C852%20PTS)-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0a1e3f"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AWS%20ACADEMY-CLOUD%20FOUNDATIONS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=331a00"/>
+</p>
 
 </div>
 
@@ -312,19 +297,7 @@ graph LR
 
 ---
 
-### // 08. LIVE GITHUB PRODUCTION METRICS
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitanshu715&theme=tokyonight&hide_border=true&background=0D1117&ring=C9A84C&fire=E8170F&currStreakLabel=C9A84C" height="175" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitanshu715&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a84c&text_color=c9d1d9" height="150" />
-
-</div>
-
----
-
-### // 09. CONNECT & DIRECT TRANSMISSION
+### // 08. CONNECT & DIRECT TRANSMISSION
 
 <div align="center">
 
