@@ -1,8 +1,8 @@
-<div align="center">
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--        NITANSHU TAK · SYSTEMS & DISTRIBUTED CLOUD ARCHITECT         -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,25:8a6a1f,50:c9a84c,75:9e120b,100:0a0e17&height=260&section=header&text=NITANSHU%20TAK&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=SYSTEMS%20%E2%80%A2%20DISTRIBUTED%20CLOUD%20%E2%80%A2%20AUTONOMOUS%20AI%20%E2%80%A2%20DEVOPS&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
@@ -10,17 +10,17 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=800&color=C9A84C&center=true&vCenter=true&width=1000&lines=Building+infrastructure+that+thinks%2C+detects%2C+and+self-heals.;ICATEET+2026+Conference+Author+%26+Presenter+%E2%80%94+Helios+Research.;10+Production+Open+Source+PRs+Merged+%7C+100%2B+Combined+Stars.;GSSoC+2026+Contributor+%E2%80%94+Open+Source+%2B+AI%2FAgents+Track.;Quantum-Classical+Cloud+Scheduler+%7C+QAOA+%2B+AWS+Braket.;Autonomous+5-Agent+Healthcare+Pipeline+%7C+6+Hours+%E2%86%92+28+Seconds.;Custom+Linux+Operating+System+Engineered+from+Kernel+to+Bootloader.;OCI+Multicloud+Architect+%26+DevOps+Certified+%7C+AWS+Academy+%7C+GCP+Diamond." />
 
-<br/>
+<br/><br/>
 
-<!-- TOP TACTICAL NAVIGATION CHIPS -->
+<!-- TOP NAVIGATION SHIELDS -->
 <a href="https://nt-matter.me"><img src="https://img.shields.io/badge/PORTFOLIO-nt--matter.me-C9A84C?style=for-the-badge&logoColor=000000&labelColor=1a1610"/></a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://linkedin.com/in/nitanshu-tak-89a1ba289"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=002244"/></a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/Nitanshu715"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:nitanshutak070105@gmail.com"><img src="https://img.shields.io/badge/GMAIL-nitanshutak070105%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4a0e0e"/></a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://unstop.com/u/nitantak2514"><img src="https://img.shields.io/badge/UNSTOP-TOP%200.21%25-6C3CE1?style=for-the-badge&logoColor=white&labelColor=280e54"/></a>
 
 </div>
@@ -90,7 +90,6 @@ graph LR
 
 <div align="center">
 
-<!-- CIRCULAR / ORBITAL CERTIFICATION SYSTEM WITH SPINNING LOGO AT CENTER -->
 <table border="0" style="border:none; background:transparent;">
   <tr>
     <td align="center" width="30%">
@@ -108,10 +107,10 @@ graph LR
   </tr>
   <tr>
     <td align="center" colspan="3">
-      <!-- ── CENTRAL HOLOGRAPHIC CORE EMBLEM (LINKS TO NT-MATTER.ME) ── -->
+      <!-- ── CENTRAL LOGO EMBLEM (LINKS TO NT-MATTER.ME) ── -->
       <br/>
       <a href="https://nt-matter.me" target="_blank">
-        <img src="https://raw.githubusercontent.com/Nitanshu715/Nitanshu715/main/Logo.png" width="130" height="130" alt="NT-MATTER Logo Core" style="filter: drop-shadow(0 0 20px rgba(201,168,76,0.85)) drop-shadow(0 0 40px rgba(194,21,12,0.5));"/>
+        <img src="./Logo.png" width="130" height="130" alt="NT-MATTER Logo Core"/>
       </a>
       <br/><br/>
       <a href="https://nt-matter.me" target="_blank">
@@ -164,7 +163,7 @@ graph LR
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nitanshu715/Nitanshu715/main/bb6c0ebb515d9367bff85b5aeb7f2f2b.gif" width="1000"/>
+  <img src="./bb6c0ebb515d9367bff85b5aeb7f2f2b.gif" width="1000"/>
 </div>
 
 ---
@@ -339,7 +338,7 @@ graph LR
 
 <div align="center">
 
-<img src="./boarding-pass-roman.jpg" width="1000"/>
+<img src="./boarding-pass-Nitanshu-Tak.jpeg" width="1000"/>
 
 <br/><br/>
 <b>Passenger:</b> Nitanshu Tak &nbsp;·&nbsp; <b>Mission:</b> Nancy Grace Roman Space Telescope<br/>
@@ -355,9 +354,7 @@ graph LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nitanshu715&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a84c&icon_color=e8170f&text_color=c9d1d9" height="165" />
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitanshu715&theme=tokyonight&hide_border=true&background=0D1117&ring=C9A84C&fire=E8170F&currStreakLabel=C9A84C" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitanshu715&theme=tokyonight&hide_border=true&background=0D1117&ring=C9A84C&fire=E8170F&currStreakLabel=C9A84C" height="175" />
 
 <br/><br/>
 
@@ -372,13 +369,13 @@ graph LR
 <div align="center">
 
 <a href="https://nt-matter.me"><img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-nt--matter.me-C9A84C?style=for-the-badge&logoColor=black&labelColor=1a1610"/></a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://linkedin.com/in/nitanshu-tak-89a1ba289"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=002244"/></a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/Nitanshu715"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:nitanshutak070105@gmail.com"><img src="https://img.shields.io/badge/EMAIL-nitanshutak070105%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4a0e0e"/></a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://unstop.com/u/nitantak2514"><img src="https://img.shields.io/badge/UNSTOP-TOP%200.21%25-6C3CE1?style=for-the-badge&logoColor=white&labelColor=280e54"/></a>
 
 <br/><br/>
