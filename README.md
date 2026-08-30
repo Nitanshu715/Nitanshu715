@@ -91,7 +91,7 @@ graph LR
 
 <p align="center">
   <a href="https://nt-matter.me" target="_blank">
-    <img src="./Logo.png" width="135" height="135" alt="NT-MATTER Logo Core"/>
+    <img src="./Logo.png" width="175" height="175" alt="NT-MATTER Logo Core"/>
   </a>
 </p>
 
