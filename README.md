@@ -111,6 +111,16 @@ graph LR
 
 </div>
 
+| Credential / Certification | Issuing Body | Architectural Specialization & Core Competencies |
+|:---|:---|:---|
+| **OCI DevOps Professional** | Oracle Cloud | Automated CI/CD pipelines, OKE Kubernetes clusters, IaC with Terraform, zero-downtime blue/green deployments, and SRE observability automation. |
+| **OCI Multicloud Architect** | Oracle Cloud | Enterprise multi-cloud architecture, cross-cloud interconnects (AWS/Azure/GCP), high availability HA/DR topologies, and zero-trust IAM security. |
+| **AWS Academy: Cloud Architecting** | Amazon Web Services | Distributed system design, high-throughput VPC topologies, serverless microservices, resilient fault tolerance, and multi-tier database scaling. |
+| **Google Cloud Arcade: Diamond League** | Google Cloud | 14,852 earned points · Diamond League & Trooper Tier rank in hands-on production labs covering Cloud Run, IAM, GKE, BigQuery, and hybrid networking. |
+| **AWS Academy: Cloud Operations** | Amazon Web Services | Systems operations, CloudWatch observability & telemetry, automated resource scaling, backup policies, compliance, and disaster recovery. |
+| **AWS Academy: Cloud Foundations** | Amazon Web Services | Core cloud computing architecture, storage tiers (S3/EBS/EFS), compute virtualization (EC2), security compliance, and cost optimization models. |
+| **AWS Cloud Practitioner** | GeeksForGeeks | Foundational AWS cloud infrastructure, billing structures, security guardrails, and cloud deployment lifecycle. |
+
 ---
 
 ### // 04. PRODUCTION REPOSITORIES & ENGINEERING HIGHLIGHTS
@@ -296,8 +306,6 @@ graph LR
 </div>
 
 ---
-
-### // 08. CONNECT & DIRECT TRANSMISSION
 
 <div align="center">
 
