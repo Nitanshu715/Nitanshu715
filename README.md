@@ -97,9 +97,9 @@ graph LR
 <p align="center" style="margin-top: 4px; margin-bottom: 4px;">
   <img src="https://img.shields.io/badge/AWS%20ACADEMY-CLOUD%20ARCHITECTING-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=331a00"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/GOOGLE%20CLOUD-ARCADE%20DIAMOND%20(14%2C852%20PTS)-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0a1e3f"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/AWS%20ACADEMY-CLOUD%20OPERATIONS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=331a00"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/GOOGLE%20CLOUD-ARCADE%20DIAMOND%20(14%2C852%20PTS)-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0a1e3f"/>
 </p>
 
 <p align="center" style="margin-top: 4px; margin-bottom: 8px;">
