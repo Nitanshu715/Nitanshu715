@@ -12,8 +12,6 @@
 &nbsp;
 <a href="https://linkedin.com/in/nitanshu-tak-89a1ba289"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=002244"/></a>
 &nbsp;
-<a href="https://github.com/Nitanshu715"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a>
-&nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nitanshutak070105@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/GMAIL-nitanshut070105%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4a0e0e" alt="Gmail">
 </a>
