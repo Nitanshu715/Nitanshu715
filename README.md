@@ -14,8 +14,9 @@
 &nbsp;
 <a href="https://github.com/Nitanshu715"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a>
 &nbsp;
-<a href="mailto:nitanshutak070105@gmail.com"><img src="https://img.shields.io/badge/GMAIL-nitanshutak070105%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4a0e0e"/></a>
-&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nitanshutak070105@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/GMAIL-nitanshut070105%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4a0e0e" alt="Gmail">
+</a>
 <a href="https://unstop.com/u/nitantak2514"><img src="https://img.shields.io/badge/UNSTOP-TOP%200.21%25-6C3CE1?style=for-the-badge&logoColor=white&labelColor=280e54"/></a>
 
 </div>
