@@ -142,7 +142,7 @@ graph LR
 | [**GigForge**](https://github.com/Nitanshu715/GigForge-Gig-Worker-Infrastructure) | FinTech + Full Stack | Next.js · TypeScript · PostgreSQL · Prisma · RBAC | Production-grade workforce and insurance infrastructure for India's gig economy. Append-only financial ledger, OTP authentication, worker onboarding, and role-based administration workflows. |
 
 <div align="center">
-  <img src="./bb6c0ebb515d9367bff85b5aeb7f2f2b.gif" width="1000"/>
+  <img src="./ryuga-dragon.gif" width="1000"/>
 </div>
 
 ---
